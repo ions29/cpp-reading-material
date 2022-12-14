@@ -2,6 +2,10 @@ I'll do a walkthrough on Tuesday and then I would like the students to select 10
 
   THEN programatically return the following information for each of them, including all option chains (for all strikes three months forward).
 
+line 4. in Dufourt.
+272093,MSFT,244.75,58725,11199041,248.31,244.16,245.42,246.536
+
+
 1.  contractDetails.UnderSecType
              * 		                                        "STK"	                        string
 2.  contractDetails.UnderConId
