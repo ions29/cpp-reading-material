@@ -1,0 +1,60 @@
+Remember you can only have about 50 simulatenous requests going to the API.
+- Maintain your request number (which is not the connection id) and remember to cancel your market request (1015) in this case. 
+
+client.cancelMktData(1015);
+
+
+
+# EXAMPLE 1.  BASIC EVENT DRIVEN TRADE ORDER.
+  
+  IF THE DOW JONES INDUSTRIAL AVERAGE MOVES NORTH BY 100 POINTS BASED ON YESTERDAY'S CLOSING POINTS.
+  >> SEND IN THESE MARKET ORDERS.
+  [+] BUY 100 SHARES OF MSFT, AAPL, TSLA, BTC, ETH, AND TWO OTHER ASSETS WHICH ARE NOT STOCKS OR CRYPTOS... AT MARKET.
+  
+  IF THE S&P 500 INDEX MOVES SOUTH BY 5 POINTS BASED ON YESTERDAY'S CLOSING PRICE, SEND IN THESE MARKET ORDERS.
+  [+] SELL 100 SHARES OF AMZN, IBM, GOOG, LTC, MATIC, AND TWO OTHER ASSETS WHICH ARE NOT STOCKS OR CRYPTOS... AT MARKET.
+
+I WANT YOUR APPLICATION TO SYSTEMICALLY CHECK FOR THE PRICE OF BOTH THE DJIA & S&P 500 INDICES, AND UPON DISCOVERY OF ANY OF THE ABOVE CONDITIONS..
+  - IMMEDIATELY FIRE OFF A SEQUENCE OF ORDER AS REFERENCED ABOVE.
+  
+REMINDER: FLAT FILE.
+  - YOUR PROGRAM IS CONSTANTLY UPDATING A FLAT FILE WITH INFORMATION AND UPON DISCOVERY OF A DIFFERENCE IN THE INDEX PRICE...
+  [+] FIRE OFF THE ORDERS..
+
+*** I WANT YOU CHECKING THIS IN ONE MINUTE INTERVALS
+    UPON DISCOVERY OF THE CONDITIONS ABOVE... 
+      FIRE A THREAD TO BULL OR SELL AS REFERENCED ABOVE.
+        PX0 = YESTERDAY'S CLOSING PRICE
+        PX1 = PRICE AT 930AM.   LAST TRADE PRICE, OR MID PRICE (WHICHEVER IS AVAILABLE)
+        PX2 = PRICE AT 931AM.   ""
+        PX3 = PRICE AT 932AM.   ""
+***
+
+AT EVERY MINUTE YOU ARE UPDATING THE FLAT FILE NO MATTER WHAT.
+- YOU HAVE TO PULL OFF A THREAD TO SEND SEND THE BUY OR SELL ORDER... 
+- BUT KEEP THIS NODE HOVERING AROUND THE PRICE OF THE S&P 500 AND DOW JONES AT ALL TIMES.
+
+THIS IS WHAT YOUR FLAT FILE SHOULD LOOK LIKE.
+  DATE IN THIS FORMAT [YYYYMMDD], PX0, PX1, PX2, PX3,.... UNTIL THE END OF THE DAY.
+  
+# EXAMPLE 2.  MARKET SPECIFIC TRADE ORDER.
+  100:1 CRUDE OIL PRICES MOVE HIGHER. A LOT.
+  [ + ] WHICH UNDERLYING STOCKS WOULD YOU SEND A MARKET ORDER TO BUY.
+  [ + ] SHOW ME THAT WHEN YOU TURN YOUR PROGRAM ON, IT FIRST SENDS THIS ORDER AS A BOOTSTAP.
+        - IN YOU MAIN PROGRAM FILE, AFTER YOU ESTABLISH THE CONNECTION IT SHOULD CALL A CLASS LIKE SO.
+          - buyCrudeOil()
+            >> this should call another class/method that sends the market orders to buy the associated equities at Market, like above.
+            
+  
+   
+# Example 3.  Define your own event, but first submit a txt file in your repo with the event, and what stocks will be affected.
+  - it can be for better or for worse.
+  - i.e. silicone valley is being held hostage by ISIS for 90-days, what happens to the price of IBM? Lower... so sell IBM.
+  
+  
+Please make a folder for this assignment and also include a readme file so that I can make comments on your outputs.
+- I will walk around in class on Monday and review your assignment.
+
+Merci!!!
+-
+
