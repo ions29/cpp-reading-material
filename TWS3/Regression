@@ -1,3 +1,48 @@
 ## Regression Project
 
 Working with relative instruments that shadow the underlying target securities.
+
+When you make a historical request, you tell the API exactly what points in reference you want.
+930 EST to 1600 EST and in ten minute intervals
+
+10-Days:    returns 400 rows of historical information for each Asset.
+30-Days:    returns 1200 rows of historical information for each Asset.
+90-Days:    Returns 3600 rows of historical informatin for each Asset.
+
+I want one speadsheet for each Asset with three tabs.
+    /10 DAY   30 Day    /90 Day
+    
+
+5 Groups
+
+Group 1.  Cryptocurrency
+          Group Leader:   Jules Clerc
+                          Damien Maillard
+                          Pierre Brun
+                          Oriol Farras
+
+          CRYPTOS:  [1] BTC, 
+                    [2] ETH, 
+                    [3] LINK, 
+                    [4] LTC, 
+                    [5] MATIC, 
+          
+          FUTURES:  [6] YM (ConID:  551601503), 
+                    [7] ES (ConID: 495512572)
+          
+
+Group 2.  Financials
+          Group Leader:   Jean-Baptiste
+                          Tom Wederich
+                          Quentin Waguet
+                          Correntin Bourdeau
+                          
+Group 3.  Real Estate
+          Group Leader:   Benjamin Ziane
+                          Even Malfort
+                          Romain Flori-Cangrelle
+Group 4.  Energy
+          Group Leader:   Theo Pomies
+                          Hugo Maltese
+                          Romain Dufourt
+                          Tiziano Cutillo
