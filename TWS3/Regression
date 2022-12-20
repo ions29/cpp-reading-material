@@ -1,5 +1,9 @@
 ## Regression Project
 
+# To search for contracts.
+
+https://misc.interactivebrokers.com/cstools/contract_info/v3.10/
+
 Working with relative instruments that shadow the underlying target securities.
 
 When you make a historical request, you tell the API exactly what points in reference you want.
