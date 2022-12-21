@@ -1,2 +1,157 @@
 # 12/21/2022
 
+You can thank the CS department at Stanford University to their contribution to this information, which thankfully is all open source.
+/s/ BD.
+
+
+---
+# ERC20 tokens
+
+  *** https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md 
+
+  ● A standard API for fungible tokens that provides basic functionality to transfer tokens or allow the tokens to be spent by a third party.
+  ● An ERC20 token is itself a smart contract that contains its own ledger of balances.
+  ● A standard interface allows other smart contracts to interact with all ERC20 tokens, rather than using special logic for each different token.
+
+## ERC20 token interface
+
+***   function transfer(address _to, uint256 _value) external returns (bool);
+  ● function transferFrom(address _from, address _to, uint256 _value) external returns (bool);
+  ● function approve(address _spender, uint256 _value) external returns (bool);
+  ● function totalSupply() external view returns (uint256);
+  ● function balanceOf(address _owner) external view returns (uint256);
+  ● function allowance(address _owner, address _spender) external view returns (uint256);
+
+*** The `transfer` function checks a few conditions, updates balances of the sender and receiver, and logs an event. 
+    ● function transfer(address _to, uint256 _value) external returns (bool);
+
+
+---
+# ABI ENCODING
+  ● Every function has a 4 byte selector that is calculated as the first 4 bytes of the hash of the function signature.
+    ○ In the case of `transfer`, this looks like bytes4(keccak256(“transfer(address,uint256)”);
+  ● The function arguments are then ABI encoded into a single byte array and concatenated with the function selector. 
+    ○ ABI encoding simple types means left padding each argument to 32 bytes.
+  ● This data is then sent to the address of the contract, which is able to decode the arguments and execute the code.
+  ● Fallback function
+
+
+## CALLING/ CREATING CONTRACTS
+  ● Addresses can be cast to contract types.
+    ○ IERC20Token tokenContract = IERC20Token(_token);
+    ○ ERC20Token tokenContract = ERC20Token(_token);
+  ● When calling a function on an external contract, Solidity will automatically handle ABI encoding, copying to memory, and copying return values.
+    ○ tokenContract.transfer(_to, _value);
+
+
+# VALUE TYPES
+  ● uint256
+  ● address (bytes20)
+    ○ balance, transfer, call, delegatecall
+  ● bytes32
+  ● bool
+
+        STACK VARIABLES
+            ● Stack variables are generally the cheapest to use and can be used for any simple types (anything that is <= 32 bytes).
+              ○ uint256 a = 123;
+            ● All simple types are represented as bytes32 at the EVM level.
+            ● Only 16 stack variables can exist within a single scope.
+
+        CALLDATA
+            ● Calldata is a read-only byte array.
+            ● Every byte of a transaction’s calldata costs gas (68 gas per non-zero byte, 4 gas per zero byte).
+                ○○○   A function with more arguments (and larger calldata) will always cost more gas.
+            ● It is cheaper to load variables directly from calldata, rather than copying them to memory.
+                ○○○   This can be accomplished by marking a function as `external`.
+
+  MEMORY
+    ● Memory is a byte array.
+    ● Complex types (anything > 32 bytes such as structs, arrays, and strings) must be stored in memory or in storage.
+        ○ string memory name = “STORAGE”;
+    ● Arguments must be copied to memory before calling an `internal` function or when a contract makes an external call (AKA calling a function on another contract).
+    ● Memory is cheap, but the cost of memory grows quadratically.
+
+  STORAGE
+    ● Using storage is very expensive and should be used sparingly.
+    ● Writing to storage is most expensive.
+    ● Reading from storage is cheaper, but still relatively expensive.
+    ● mappings and state variables are always in storage.
+    ● Some gas is refunded when storage is deleted or set to 0 (checkout
+          https://gastoken.io/ for an interesting use of this).
+
+    ●●● Variables < 32 bytes can be packed into 32 byte slots.
+    
+      Event logs
+      ● Event logs are a cheap way of storing data that does not need to be accessed by any contracts.
+      ● Events are stored in transaction receipts, rather than in storage.
+
+
+
+
+REFERENCE TYPES
+  ● structs
+  ● arrays
+  ● bytes
+  ● strings
+  ● mappings
+  
+CLASS/ FUNCTION VISIBILITY
+  ● external
+  ● internal
+  ● public
+  ● private
+  ● pure
+  ● view
+
+GLOBALLY AVAILABLE VARIABLES
+  ● block
+    ○ blockhash, coinbase, difficulty, gaslimit, number, timestamp
+  ● gasLeft()
+  ● msg
+    ○ data, sender, sig, value
+  ● tx
+    ○ gasprice, origin
+  ● abi
+    ○ encode, encodePacked, encodeWithSelector, encodeWithSignature
+  ● keccak256
+  ● ecrecover
+  ● require, assert
+ 
+
+---
+TYPES OF IMPORTS
+
+  ● Inheritance
+    ○ contract A is SafeMath {}
+    ○ uint256 a = safeAdd(b, c);
+  
+  ● Libraries
+    ○ using SafeMath for uint256;
+    ○ uint256 a = b.safeAdd(c);
+
+
+
+*** Here are some useful links for this section.
+  
+  0.  https://0xproject.com/
+  1.  http://bit.do/cs251solidity
+  2.  https://gist.github.com/abandeali1/74d8b73f457add6b1bf7255a90b0adf5
+  3.  https://remix.ethereum.org/
+  
+
+Here are the basic answers you need to answer.
+
+A.  Name two value types that are known in Solidity Programming?
+B.  Name two reference types that are known in Solidity Programming?
+C.  What are globally available variables in this scope?
+D.  Name two types of `block` variables.
+E.  Name one form of visibility in Solidity that is NOT AVAILABLE in C++.
+F.  Provide me one example of using the SafeMath with Inheritance.
+G.  Provide me one example of using the SafeMath with the builtIn Library.
+H.  Take a look at this code contract information, because I will be asking you about it on my return, January 9th.
+      https://github.com/0xProject/0x-monorepo/tree/development/packages/contracts
+
+--
+            
+
+
