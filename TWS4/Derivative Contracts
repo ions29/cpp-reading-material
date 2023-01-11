@@ -1,0 +1,31 @@
+TWS, Exercise 4
+
+#     TWS4:    Derivative Contract Execution
+
+              # The point of this exercise is to further on TWS3.
+              # Your program has identified value and needs to execute more complex order types.
+
+
+*************************************************************************************************************************************
+
+PART 1.   Upon arrival of an instance where there is a high probability of a change in price (for better or for worse)
+
+        A.  Your program must request all available derivative contracts (options) for the underlying security.
+  
+        B.  Determine which of those contracts make the most sense to purchase.
+    
+          e.g.:   Do not buy the option contracts that are $50 out of the money for a $60 stock.
+   
+        C.  We are going to work these with Limit orders later...
+          
+            **** For the purpose of this exercise you place a MARKET ORDER for all relevant contracts.
+  
+        D.  You will also be purchasing the natural underlying security, in addition to N-number of option contracts.
+    
+    *****   I will be reviewing your work on Tuesday, the 17th of January so if you run into any speed bumps... 
+        ... don't worry about it as the 17th is a soft deadline, I'll give you all a few extra days depending on where you all are at.
+       
+ 
+ *************************************************************************************************************************************
+ 
+ PART II.
