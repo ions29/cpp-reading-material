@@ -1,0 +1,47 @@
+------
+WEEK 1		12/05/2022
+Module 4.2	How Markets Endorse New Crypto Technology
+	Introduction to financial exchanges, arbitrage, esoteric assets and market data using the TWS API. Students are required to build a workstation on their laptops using the interactive brokers gateway and TWS API to evaluate real-time market data. The first project is geared to educate and train students how to obtain and evaluate real-time market data with crypto currencies, equities, bonds, futures, currencies and their derivative contracts. The basic purpose of the lesson is to show students that there are other assets besides cryptocurrencies where they can discover executable arbitrage opportunities using only one exchange using various data points as referenced in the guidelines. As to further on introductions, students will prepare a basic resume which we will work to develop and improve throughout the term.
+https://github.com/ions29/cpp-reading-material/blob/main/HW01 
+
+    ****  Project 1 [TWS-1]:	  100 Points
+    ****  Resume Project:	      100 Points
+
+
+------
+WEEK 2		12/12/2022
+Module 4.3	New Technologies, New Products (Language)
+	Introduction to FIX programming and socket negotiation with multiple exchanges in several programming languages using parallel programming and an emphasis on idiosyncratic demands from various exchanges. The scope of this module is to demonstrate how different exchanges, venues, and over the counter trading participants require a different set of commands (IB/ chat, Limit Orders, Market Orders, Auto-Executable Orders, Etc.). Introduction to FIX Tags, program trading, and market making using an event driven system that triggers orders based on certain conditions. For example, if the United States outlaws Bitcoin in all 50 states, what happens to the price of Bitcoin and how are the students trading systems setup to capitalize on such an unusual circumstance autonomously/ programmatically? In this section, students will further on their first Project and continue to program in their language of choice: C++/ C#/ Java/ Python in Linux/ Terminal/ Windows operating systems. Brief introduction to programming in Haskell and to further support the idiosyncratic needs of various of exchanges we review the second project which is divided into three parts and worth a total of 300 points and evaluates real time market data to autonomously trigger an order, for example: if the S&P 500 goes up 5 points automatically buy 100 shares of Microsoft.
+https://github.com/ions29/cpp-reading-material/blob/main/TWS2/EVENT%20DRIVEN
+		
+    ****  Project 2 [TWS-2]:	  300 Points
+
+------
+WEEK 3		12/19/2022
+Module 4.4	New Technologies, New Products (Language)
+	In furtherance of week prior, project II was completed in either C++/ C#/ Java/ Python in Linux/ Terminal/ Windows operating systems. Smart contract programming using Golang and Solidity is briefly introduced and to further “de-centralize” the need of one single exchange we visit some other market data/ execution facilities (ICE, NYSE, ISLAND). We will work with mathematical operators, storage, conditional statements and the best “tools” to use given the environment designated for analysis, whether it be the NYSE, TWS, or ICE… all we are looking for is an identifier and some float precision information.
+https://github.com/ions29/cpp-reading-material/tree/main/Solidity
+		
+    ****  Solidity:		          100 Points
+
+
+------
+WEEK 4		01/09/2023
+Module 5.1	Decentralized Finance (DeFi)
+	Introduction to actuarial finance, forecasting values using 30-day/ 60-day/ 90-day regression analysis. The class is broken up into 5 groups with a focus on one of several market sectors:    
+   [1] Cryptocurrency; [2] Financials; [3] Real Estate; [4] Energy; and [5] Commodities.
+The students will be further developing and collaborating their findings from the prior Project to establish conditional rules that trigger real-time market order on the basis of buying pressure, volume, selling pressure, lack of volume, in addition to other determinants discussed in class. Students will receive an individual grade as well as a group grade which combines for 500 points. At this junction, the students are primarily responsible for producing outputs with their indicators without any market orders attached to the information. In the week which ensues we will be working to target various order on both the underlying securities as well as their derivative contracts. The premise of this exercise is to evaluate a larger market (WTI, or BTH… for example) and to determine what happens to their respective ETF tickers, or relative markets which are cased in iBoxx Market derivatives (as an example) which we will be evaluating in the following week.
+https://github.com/ions29/cpp-reading-material/blob/main/TWS3/Regression
+		
+    ****  Project 3 [TWS-3]:	  500 Points
+
+------
+WEEK 5		01/17/2023 		(MLK)
+Module 5.2	Project: Technologies in Decentralized Finance
+	We will be working with the TWS API and using the Gateway FIX/ API as well (whichever the students prefer to use) to make more complicated orders using the derivatives that are pegged directly to the underlying securities as well as their neighbors/ related securities. 
+https://github.com/ions29/cpp-reading-material/blob/main/TWS4/Derivative%20Contracts
+		
+
+****  Project 4 [TWS-4-A]:	500 Points
+****  Project 4 [TWS-4-B]:	500 Points
+--
