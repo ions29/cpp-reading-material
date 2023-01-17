@@ -1,4 +1,4 @@
-TWS, Exercise 4
+TWS, Exercise 4                                   IF YOU CAN HAVE THIS COMPLETED BY MONDAY THAT WOULD BE FINE.
 
 #     TWS4:    Derivative Contract Execution
 
@@ -6,9 +6,45 @@ TWS, Exercise 4
               # Your program has identified value and needs to execute more complex order types.
 
 
+
+ PART I.
+
+      CONDITIONS [ +1 ] [ -1]
+      *** I would like to see 3 (at least)
+      
+ [+1] || [-1]
+              A.  CONDITION OF A RATE IN CHANGE INCREASE/DECREASE IN VOLUME
+ 
+ [+1] || [-1]
+              B.  CONDITION THE DIFFERENCE IN THE BID AND ASK PRICE (THE BID ASK SPREAD)
+                *** WIDER MEANS THE DIFFERENCE IS GREATER AND THE PRICE SHOULD GO LOWER
+                *** TIGHER MEANS THE DIFFERENCE IS SMALLER AND THE PRICE SHOULD GO HIGHER
+ 
+ [+1] || [-1]
+              C.  CONDITION BOTH THE BID AND ASK PRICE, RELATIVE TO THE CURRENT (LAST TRADED PRICE)
+      
+              ***** YOU'RE GOING TO NEED THE ABSOLUTE VALUE TO ASSESS THE DIFFERENCE AS WELL...
+              
+              ***** LAST_TRADE - BID_PRICE   = WHAT IS THE SPREAD BETWEEN THE BID_PRICE AND THE LAST_TRADE
+                                        ***** IS THE BIAS TOWARDS A STRONGER BID OR A STRONGER ASK PRICE.
+              ***** LAST_TRADE - ASK_PRICE
+
+          NOTE:   IF THE LAST_TRADE - ASK_PRICE IS MOVING HIGHER, FOR EXAMPLE THE BIAS IS "BULLISH" IF THE BID_PRICE IS MOVING IN TANDEM.
+
+          NOTE:   AS FOR THE LAST_TRADE, YOU CAN ALSO CHECK TO SEE THE QUANTITY THAT WAS TRADED TO AVOID A SMALL TRADE.
+                EFFECTIVELY, IF YOU SEE A LARGER NUMBER OF SHARES TRADED, YOU CAN USE THAT AS A CONFIDENCE LEVEL IN THE DATA.
+                
+                THE LARGER THE TRADE, THE MORE "VALUABLE" THE INFORMATION IS, AND IF YOU SEE A "LARGE" NUMBER OF SHARES TRADE 
+                RELATIVE TO ORDINARY VOLUME, IT IS AN ADDITIONAL INDICATOR OF VALUE 
+
+IF YOU ARE FEELING AMBITIOUS, TRY TO CASE TWO ADDITIONAL 
+
+
 *************************************************************************************************************************************
 
-PART 1.   Upon arrival of an instance where there is a high probability of a change in price (for better or for worse)
+PART 2.   TRIGGER THE ORDERS AUTOMATICALLY DURING MARKET HOURS.
+
+      Upon arrival of an instance where there is a high probability of a change in price (for better or for worse)
 
         A.  Your program must request all available derivative contracts (options) for the underlying security.
   
@@ -31,4 +67,3 @@ Here is the reading on Options to get ALL CONTRACT DETAILS
 
  *************************************************************************************************************************************
  
- PART II.
