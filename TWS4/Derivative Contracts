@@ -19,7 +19,15 @@ TWS, Exercise 4                                   IF YOU CAN HAVE THIS COMPLETED
               B.  CONDITION THE DIFFERENCE IN THE BID AND ASK PRICE (THE BID ASK SPREAD)
                 *** WIDER MEANS THE DIFFERENCE IS GREATER AND THE PRICE SHOULD GO LOWER
                 *** TIGHER MEANS THE DIFFERENCE IS SMALLER AND THE PRICE SHOULD GO HIGHER
- 
+                
+                LAW OF BID-ASK SPREAD
+                
+                  i.    use the avg. bid ask spread as a basis.
+                  ii.   use the MAXIMUM BID-ASK SPREAD
+                  iii.  remember to feed the squirrels, and divide everything by 2.         [ii] - [i]
+                  iv.   subtract [iii] from [i]  to determine your MINIMUM tolerance band.
+                  v.    add [iii] to [i] to determine your MAXIMUM tolerance band.
+     
  [+1] || [-1]
               C.  CONDITION BOTH THE BID AND ASK PRICE, RELATIVE TO THE CURRENT (LAST TRADED PRICE)
       
