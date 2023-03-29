@@ -1,3 +1,5 @@
+DUE BY NEXT FRIDAY, APRIL 7TH.
+
 Using your previous TWS trading applications.
 - As always, you will be generating a spreadsheet in your individual repositories with the OUTPUT.
     
@@ -23,10 +25,34 @@ PART A.
               98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
               99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
               94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, FCX CORP 4.55% 2042, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
+              99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
+              94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, FCX CORP 4.55% 2042, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
+              99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
+              94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, FCX CORP 4.55% 2042, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
+              99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
+              94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              
+              
+              CONTRACT DETAILS
+              TICKER, COUPON, MATURITY YEAR, AS JUNK OR INVESTMENT GRADE.
+              
+              > RETRIEVE THE INFORMATION YOU NEED TO QUALIFY THE SECURITY IN YOUR 153C1 WRAPPER
+              > THIS IS THE ONLY ACCEPTABLE WAY TO PROPERLY CALCULATE THE MINIMUM.
+              
+              ***   DO NOT HARD CODE 5% IN THE FILE, AS PRICES CHANGE, SO DO THE REQUIREMENTS....
+                        EX/ LOW DOLLAR BONDS AND CONVERTIBLE NOTES.
+                        
             
     iii.    ADD AS FEW OR AS MANY FINANCIAL INSTRUMENTS THAT YOU ARE HAPPY WITH.
             JUST MAKE SURE YOU ARE ABLE TO FIND THEM AND THE DETAILS USING THE TWS SECURITY SCANNER.
   
+    IV.     WHEN YOU TURN YOUR PROGRAM ON, IT WILL EXECUTE THE LIST OF SECURITIES WITH THE PRE-ESTABLISHED "INTENT"
 
 ____________________________________________________________________________________________________________________________________________________________
 PART B.
@@ -34,15 +60,20 @@ PART B.
 Once you are satisfied with the positions you have accumulated, you want to output the following onto a spreadsheet
 *** Your program should automatically calculate the 15c3-1 requirement using the guidelines we covereed in class.
 
-  [OUTPUT]    ITEMA, TICKER, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
-              ITEMB, TICKER, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
-              ITEMC, TICKER, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
-              ...
+  [OUTPUT]    ITEMA, TICKER, CONTRACT DETAILS, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
+              ITEMB, TICKER, CONTRACT DETAILS, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
+              ITEMC, TICKER, CONTRACT DETAILS, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
+              . . .
 
 ____________________________________________________________________________________________________________________________________________________________
 PART C.
     
 Portfolio Exposure Summary          
+  REG-T IS WHAT YOU ARE DEALING WITH IN TWS, SO I WILL AWARD THE MOST NOTIONAL DOLLAR EXPOSURE AWARD AT THE END OF THE PROJECT.
+  Here is the information you should read and understand because it is what is available generically to most individuals and institutions.
+  https://www.finra.org/rules-guidance/key-topics/margin-accounts
+  
+  - WHEN YOU MAX OUT YOUR AVILABLE CASH AND USE LEVERAGE, WHEN THE POSITIONS MOVE AGAINST YOU... THEY WILL AUTOMATICALLY START LIQUIDATING POSITIONS.
   
       *** Your program should automatically calculate the 15c3-1 requirement using the guidelines we covereed in class.
               *** PLEASE ALSO CONSIDER THE "NETTING OF POSITIONS" FOR A BONUS ***
@@ -52,12 +83,24 @@ Portfolio Exposure Summary
 
 ____________________________________________________________________________________________________________________________________________________________
 For reference: 
-https://www.finra.org/sites/default/files/SEA.Rule_.15c3-1.Interpretations.pdf
 
-GOVERNMENT SECURITIES
-(A) GOVERNMENT SECURITIES- PAGE 421
-(B) MUNICIPALS- PAGE 441
-(E) COMMERCIAL PAPER, BANKERS ACCEPTANCES AND CERTIFICATES OF DEPOSIT - PAGE 461
-(F) NONCONVERTIBLE DEBT SECURITIES - PAGE 471
+SEA RULE 15C3-1
+>https://www.finra.org/sites/default/files/SEA.Rule_.15c3-1.Interpretations.pdf
+
+                (A) GOVERNMENT SECURITIES
+                    - PAGE 421
+                    
+                (B) MUNICIPALS
+                    - PAGE 441
+                    
+                (E) COMMERCIAL PAPER, BANKERS ACCEPTANCES AND CERTIFICATES OF DEPOSIT
+                    - PAGE 461
+                    
+                (F) NONCONVERTIBLE DEBT SECURITIES 
+                    - PAGE 471
+    
+REGULATION T: GUIDELINES.
+> https://www.finra.org/rules-guidance/key-topics/margin-accounts
+> https://www.ecfr.gov/current/title-12/chapter-II/subchapter-A/part-220?toc=1
 
 --
