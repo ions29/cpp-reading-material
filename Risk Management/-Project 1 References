@@ -1,0 +1,44 @@
+PROJECT REPOSITORY AND RESOURCES ARE AVAILABLE HERE
+//Risk Management
+https://github.com/ions29/cpp-reading-material/tree/main/Risk%20Management
+
+Here is the documentation for the IBKR TWS API, I would recommend pulling a few contract from the API to take a closer look at the Object variables in the scope of this exercise.
+https://interactivebrokers.github.io/tws-api/classIBApi_1_1ContractDetails.html
+
+
+We are looking to qualify and case the following information to determine the minimum capital requirements for the following instruments.   
+Asset Type (Govt, Corp, Muni, etc...) 
+
+  Corporate Name/ Identifier (US Treasury, AAPL Corp, New York State, etc...)
+
+  Coupon (Don't forget to check for zero coupon bonds)
+  
+  Maturity (You can obtain this by parsing the string in the contract details)
+
+  Rating  (You can obtain this by parsing the string in the contract details)
+
+Here are some resources help you better qualify investment/junk grade bonds when you are running them through your algos..
+
+Credit Ratings should be qualified using a combined methodology as all instruments are not necessarily rated by all three major credit ratings agencies 
+  (S&P, Moody's, Fitch)
+
+# Moody's
+- https://ratings.moodys.io/ratings
+
+# S&P Capital IQ
+- https://www.spglobal.com/ratings/en/
+
+# Fitch
+- https://www.fitchratings.com/
+
+Here are some additional resources which you can refer to to help you qualify the assets that you are running through your algorithms.
+- https://www.researchgate.net/profile/Emily-Ekins-3/publication/228246049/figure/tbl1/AS:889008854953991@1588967636777/Comparison-between-Moodys-S-P-and-Fitch-Rating-Scales-Long-Term-Rating-Scales.png
+- https://www.researchgate.net/figure/Comparison-between-Moodys-S-P-and-Fitch-Rating-Scales-Long-Term-Rating-Scales_tbl1_228246049
+
+
+TWS API References
+- https://interactivebrokers.github.io/tws-api/classIBApi_1_1ContractDetails.html
+
+
+Rules to determine Minimum Net Capital Requirements.
+- https://www.finra.org/sites/default/files/SEA.Rule_.15c3-1.Interpretations.pdf
