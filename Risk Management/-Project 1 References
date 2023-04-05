@@ -5,6 +5,9 @@ https://github.com/ions29/cpp-reading-material/tree/main/Risk%20Management
 Here is the documentation for the IBKR TWS API, I would recommend pulling a few contract from the API to take a closer look at the Object variables in the scope of this exercise.
 https://interactivebrokers.github.io/tws-api/classIBApi_1_1ContractDetails.html
 
+Leverage and the Beta Anomaly
+https://www.hbs.edu/ris/Publication%20Files/Leverage%20and%20the%20Beta%20Anomaly_375b0691-6579-47d3-8184-01147bc726ce.pdf
+
 
 We are looking to qualify and case the following information to determine the minimum capital requirements for the following instruments.   
 Asset Type (Govt, Corp, Muni, etc...) 
