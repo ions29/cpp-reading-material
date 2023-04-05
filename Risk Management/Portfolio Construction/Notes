@@ -1,1 +1,19 @@
-Tuesday, April 4, 2023
+[ticker]: :[GICS] > [HISTORICAL VOLUME] > [BETA] > [CAPITAL REQUIREMENT] > [BID-ASK SPREAD] > [COND n]
+
+REMINDER:   The Ticker score is the total sum of all delimiters you are qualifying.
+
+          USING THE [ +1 / -1 ] METHODOLOGY,
+         
+            EX: Using GICS Sector for Financials/Banks = -500
+              > would make it impossible for your system to qualify the sector for investment (Blacklist)
+            
+            EX: Ticker score = -500
+              > would make it impossible for your system to qualify the ticker for investment (Blacklist)
+
+./Portfolio Construction Resources.
+https://github.com/ions29/cpp-reading-material/tree/main/Risk%20Management/Portfolio%20Construction
+
+
+*** For the purpose of this exercise, your mock-portfolios should represent a 100% beta-weighted risk allocation model.
+./Risk Management Resources.
+https://github.com/ions29/cpp-reading-material/tree/main/Risk%20Management
