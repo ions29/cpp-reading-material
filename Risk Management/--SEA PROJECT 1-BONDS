@@ -13,6 +13,28 @@ Using your previous TWS trading applications.
 ____________________________________________________________________________________________________________________________________________________________
 PART A.
 
+CODE SNIPPET
+
+//! [ewrapperimpl]
+public class EWrapperImpl implements EWrapper {
+...
+	public void contractDetails(int reqId, ContractDetails contractDetails) {
+            
+            Object mtX = contractDetails;
+            ^^ you can evaluate the contractDetails object... which is different than ContractDetails.
+            ^^ check the case
+            
+            String mtxA =  contractDetails.m_category;
+            String mtxB =  contractDetails.m_industry;
+            String mtxC =  contractDetails.m_longName;
+            
+            System.out.println(mtxC);
+            System.out.println(mtxB);
+            System.out.println(mtxA);
+            System.out.println(EWrapperMsgGenerator.contractDetails(reqId, contractDetails)); 
+...
+//! [ewrapperimpl]
+
   Select a basket of Government Bonds, Corporate Bonds, Municipal Bonds and take long and short positions in Govt and Corporate bonds.
   - It is unlawful to short a Municipal Bond FYI :)
 
