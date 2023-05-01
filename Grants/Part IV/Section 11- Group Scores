@@ -15,15 +15,15 @@ Instructions:  https://github.com/ions29/cpp-reading-material/blob/main/Grants/P
        Group 1             
                     Part 1    100
                     Part 2    400
-                    Part 3      0
+                    Part 3    460
                     Part 4      0
-            Total             500 / 1500
+            Total             960 / 1500
     
                                          PT1     PT2     PT3     PT4    GROUP           TOTAL
-            Hugo MALTESE                 100     400       0       0      500       1000/3000
-            Tiziano CUTILLO              100     400       0       0      500       1000/3000
-            Romain DUFOURT               100     400       0       0      500       1000/3000
-            Romain FLORI-CANTRELLE       100     400       0       0      500       1000/3000
+            Hugo MALTESE                 100     400     460       0      500       1460/3000
+            Tiziano CUTILLO              100     400     460       0      500       1460/3000
+            Romain DUFOURT               100     400     460       0      500       1460/3000
+            Romain FLORI-CANTRELLE       100     400     460       0      500       1460/3000
 
 
        Group 2             
@@ -69,8 +69,8 @@ Group 1
   Part 2:  SCORE 400/400
   https://github.com/ions29/cpp-reading-material/blob/main/Grants/Part%20II/Section%201%20-3.pdf
   
-  Part 3:  SCORE 0/500
-  ....
+  Part 3:  SCORE 460/500
+  https://github.com/ions29/cpp-reading-material/blob/main/Grants/Part%203/HRTC.pdf
   Part 4:  SCORE 0/500
   FINAL
 -------------------------------------------------------------------------------------------------------
