@@ -1,0 +1,189 @@
+Using your previous TWS trading applications.
+- As always, you will be generating a spreadsheet in your individual repositories with the OUTPUT.
+    
+  You will be graded as follows:
+                                PART A   1000 Points
+                                PART B   1000 Points
+                                PART C   1000 Points
+                                PART D   2000 Points
+                                ____________________
+                                TOTAL    5000 POINTS
+
+____________________________________________________________________________________________________________________________________________________________
+PART A.
+
+
+  Select a basket of Government Bonds, Corporate Bonds, Municipal Bonds and take long and short positions in Govt and Corporate bonds.
+  - It is unlawful to short a Municipal Bond FYI :)
+
+    i.      CREATE A FOLDER IN YOUR REPOSITORY AND NAME IT "SEA RULE PROJECT 1"
+      
+    ii.     ADD A FILE IN THE FOLDER AND NAME IT TICKERS, AND MAKE A LIST OF THE CONID, SECURITY IDENTIFIER, AND DETAILS.
+     
+          EX/
+              98XXXXXXX, FCX CORP 4.55% 2042, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
+              99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
+              94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, FCX CORP 4.55% 2042, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
+              99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
+              94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, FCX CORP 4.55% 2042, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
+              99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
+              94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, FCX CORP 4.55% 2042, INTENT=LONG, QUANTITY=100
+              98XXXXXXX, AAPL CORP 7% 2024, INTENT=SHORT, QUANTITY=100
+              99XXXXXXX, UST BOND 5% 2035, INTENT=LONG, QUANTITY=100
+              94XXXXXXX, NY MUNI GO 6% 2032, INTENT=LONG, QUANTITY=100
+              
+              
+              CONTRACT DETAILS
+              TICKER, COUPON, MATURITY YEAR, AS JUNK OR INVESTMENT GRADE.
+              
+              > RETRIEVE THE INFORMATION YOU NEED TO QUALIFY THE SECURITY IN YOUR 153C1 WRAPPER
+              > THIS IS THE ONLY ACCEPTABLE WAY TO PROPERLY CALCULATE THE MINIMUM.
+              
+              ***   DO NOT HARD CODE 5% IN THE FILE, AS PRICES CHANGE, SO DO THE REQUIREMENTS....
+                        EX/ LOW DOLLAR BONDS AND CONVERTIBLE NOTES.
+                        
+            
+    iii.    ADD AS FEW OR AS MANY FINANCIAL INSTRUMENTS THAT YOU ARE HAPPY WITH.
+            JUST MAKE SURE YOU ARE ABLE TO FIND THEM AND THE DETAILS USING THE TWS SECURITY SCANNER.
+  
+    IV.     WHEN YOU TURN YOUR PROGRAM ON, IT WILL EXECUTE THE LIST OF SECURITIES WITH THE PRE-ESTABLISHED "INTENT"
+
+____________________________________________________________________________________________________________________________________________________________
+PART B.
+
+Once you are satisfied with the positions you have accumulated, you want to output the following onto a spreadsheet
+*** Your program should automatically calculate the 15c3-1 requirement using the guidelines we covereed in class.
+
+  [OUTPUT]    ITEMA, TICKER, CONTRACT DETAILS, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
+              ITEMB, TICKER, CONTRACT DETAILS, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
+              ITEMC, TICKER, CONTRACT DETAILS, POSITION (LONG/SHORT), QUANTITY, PRICE, CASH ALLOCATION, ***SEA Rule 15c3-1 NET CAPITAL REQUIREMENT***
+              . . .
+
+
+CODE SNIPPET
+
+//! [ewrapperimpl]
+public class EWrapperImpl implements EWrapper {
+...
+	public void contractDetails(int reqId, ContractDetails contractDetails) {
+            
+            Object mtX = contractDetails;
+            ^^ you can evaluate the contractDetails object... which is different than ContractDetails.
+            ^^ check the case
+            
+            String mtxA =  contractDetails.m_category;
+            String mtxB =  contractDetails.m_industry;
+            String mtxC =  contractDetails.m_longName;
+            
+            System.out.println(mtxC);
+            System.out.println(mtxB);
+            System.out.println(mtxA);
+            System.out.println(EWrapperMsgGenerator.contractDetails(reqId, contractDetails)); 
+...
+//! [ewrapperimpl]
+
+____________________________________________________________________________________________________________________________________________________________
+PART C.
+    
+Portfolio Exposure Summary          
+  REG-T IS WHAT YOU ARE DEALING WITH IN TWS, SO I WILL AWARD THE MOST NOTIONAL DOLLAR EXPOSURE AWARD AT THE END OF THE PROJECT.
+  Here is the information you should read and understand because it is what is available generically to most individuals and institutions.
+  https://www.finra.org/rules-guidance/key-topics/margin-accounts
+  
+  - WHEN YOU MAX OUT YOUR AVILABLE CASH AND USE LEVERAGE, WHEN THE POSITIONS MOVE AGAINST YOU... THEY WILL AUTOMATICALLY START LIQUIDATING POSITIONS.
+  
+      *** Your program should automatically calculate the 15c3-1 requirement using the guidelines we covereed in class.
+              *** PLEASE ALSO CONSIDER THE "NETTING OF POSITIONS" FOR A BONUS ***
+    
+  [OUTPUT]    CT LONG POS, CT SHORT POS, TTL SHARES LONG, TTL SHARES SHORT, TTL $LONG, TTL $SHORT, TTL $LONG + $SHORT CASH, TTL 15c3-1 CAPITAL REQ.
+
+
+____________________________________________________________________________________________________________________________________________________________
+For reference: 
+
+SEA RULE 15C3-1
+>https://www.finra.org/sites/default/files/SEA.Rule_.15c3-1.Interpretations.pdf
+
+                (A) GOVERNMENT SECURITIES
+                    - PAGE 421
+                    
+                (B) MUNICIPALS
+                    - PAGE 441
+                    
+                (E) COMMERCIAL PAPER, BANKERS ACCEPTANCES AND CERTIFICATES OF DEPOSIT
+                    - PAGE 461
+                    
+                (F) NONCONVERTIBLE DEBT SECURITIES 
+                    - PAGE 471
+    
+REGULATION T: GUIDELINES.
+> https://www.finra.org/rules-guidance/key-topics/margin-accounts
+> https://www.ecfr.gov/current/title-12/chapter-II/subchapter-A/part-220?toc=1
+
+***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   
+
+SUPPLEMENTS
+PROJECT REPOSITORY AND RESOURCES ARE AVAILABLE IN THE CLASS REPO.
+
+//Risk Management
+
+https://github.com/ions29/cpp-reading-material/tree/main/Risk%20Management
+
+Here is the documentation for the IBKR TWS API, I would recommend pulling a few contract from the API to take a closer look at the 
+  Object variables in the scope of this exercise.
+
+  https://interactivebrokers.github.io/tws-api/classIBApi_1_1ContractDetails.html
+
+
+We are looking to qualify and case the following information to determine the minimum capital requirements for the following instruments.   
+
+  - Asset Type (Govt, Corp, Muni, etc...) 
+
+  - Corporate Name/ Identifier (US Treasury, AAPL Corp, New York State, etc...)
+  
+  - Coupon (Don't forget to check for zero coupon bonds)
+  
+  - Maturity (You can obtain this by parsing the string in the contract details)
+
+  - Rating  (You can obtain this by parsing the string in the contract details)
+
+Rules to determine Minimum Net Capital Requirements.
+- https://www.finra.org/sites/default/files/SEA.Rule_.15c3-1.Interpretations.pdf
+
+Credit Ratings should be qualified using a combined methodology as all instruments are not necessarily rated by all/any of the 
+three major credit ratings agencies (S&P, Moody's, Fitch).
+
+    Moody's
+    - https://ratings.moodys.io/ratings
+
+    S&P Capital IQ
+    - https://www.spglobal.com/ratings/en/
+
+    Fitch
+    - https://www.fitchratings.com/
+
+TWS API References
+https://interactivebrokers.github.io/tws-api/classIBApi_1_1ContractDetails.html
+
+*** These three items will pretty much hold most of the information you are looking for
+
+string DescAppend
+  A description string containing further descriptive information about the bond. For Bonds only.
+
+string BondType
+  The type of bond, such as "CORP.".
+ 
+string ContractMonth
+  Typically the contract month of the underlying for a Future contract. 
+
+Here are some additional resources which you can refer to to help you qualify the assets that you are running through your algorithms.
+- https://www.researchgate.net/profile/Emily-Ekins-3/publication/228246049/figure/tbl1/AS:889008854953991@1588967636777/Comparison-between-Moodys-S-P-and-Fitch-Rating-Scales-Long-Term-Rating-Scales.png
+- https://www.researchgate.net/figure/Comparison-between-Moodys-S-P-and-Fitch-Rating-Scales-Long-Term-Rating-Scales_tbl1_228246049
+   
+--
