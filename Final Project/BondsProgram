@@ -88,8 +88,67 @@ public class EWrapperImpl implements EWrapper {
 ...
 //! [ewrapperimpl]
 
+
+*** SUPPLEMENTS TO HELP YOU COMPLETE THIS SECTION ****
+You need to upload these screenshots of your groups TWS configuration, in addition to an output .csv file that has cased your positions and outputs the SEA capital requirements for what you are holding in inventory.
+
+Screenshots of your TWS
+
+		## (250) Account Information
+		https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/CaptureAccountInformation.PNG
+
+		## (250) Trade Blotter
+		https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/CaptureTradeBlotter.PNG
+
+		## (250) Margin (Reg-T)
+		https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/CaptureMargin.PNG
+
+		## (250) These should correlate to thee output file that your program outputs, which you will also upload to your group REPO.
+
+		*** Without the output FILE the score is zero.
+		*** So you must calculate the SEA 153c1 requirements autonomously using your trading applications.
+
+You can refer back to the % and requirements in the previous section on Risk Management which you completed.
+https://github.com/ions29/cpp-reading-material/tree/main/Risk%20Management
+
+!! Reminder: You need to be able to automatically qualify
+
+   // Asset Type
+   	GOVT/ CORP/ MUNI/ EQUITY/ ETC...
+	
+   // Maturity
+   
+   // Credit Rating
+   
+   // Coupon
+
+!! In order to calculate the SEA 153c1 Requirements for each position, and in aggregate.
+
+Make sure you get this done on time, you have ~2 weeks which is more than enough to move on to Part C, which will be due the following Friday
+May 19TH.
+				SEA RULE 15C3-1
+				>https://www.finra.org/sites/default/files/SEA.Rule_.15c3-1.Interpretations.pdf
+
+						(A) GOVERNMENT SECURITIES
+						    - PAGE 421
+
+						(B) MUNICIPALS
+						    - PAGE 441
+
+						(E) COMMERCIAL PAPER, BANKERS ACCEPTANCES AND CERTIFICATES OF DEPOSIT
+						    - PAGE 461
+
+						(F) NONCONVERTIBLE DEBT SECURITIES 
+						    - PAGE 471
+
+				REGULATION T: GUIDELINES.
+				> https://www.finra.org/rules-guidance/key-topics/margin-accounts
+				> https://www.ecfr.gov/current/title-12/chapter-II/subchapter-A/part-220?toc=1
+
+
+
 ____________________________________________________________________________________________________________________________________________________________
-PART C.
+PART C. DUE MAY 19TH
     
 Portfolio Exposure Summary          
   REG-T IS WHAT YOU ARE DEALING WITH IN TWS, SO I WILL AWARD THE MOST NOTIONAL DOLLAR EXPOSURE AWARD AT THE END OF THE PROJECT.
@@ -125,6 +184,7 @@ SEA RULE 15C3-1
 REGULATION T: GUIDELINES.
 > https://www.finra.org/rules-guidance/key-topics/margin-accounts
 > https://www.ecfr.gov/current/title-12/chapter-II/subchapter-A/part-220?toc=1
+
 
 ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   
 
