@@ -148,23 +148,38 @@ May 19TH.
 
 
 ____________________________________________________________________________________________________________________________________________________________
-PART C. DUE MAY 19TH
+PART C. DUE: FRIDAY MAY 19TH
     
-Portfolio Exposure Summary          
-  REG-T IS WHAT YOU ARE DEALING WITH IN TWS, SO I WILL AWARD THE MOST NOTIONAL DOLLAR EXPOSURE AWARD AT THE END OF THE PROJECT.
-  Here is the information you should read and understand because it is what is available generically to most individuals and institutions.
-  https://www.finra.org/rules-guidance/key-topics/margin-accounts
-  
-  - WHEN YOU MAX OUT YOUR AVILABLE CASH AND USE LEVERAGE, WHEN THE POSITIONS MOVE AGAINST YOU... THEY WILL AUTOMATICALLY START LIQUIDATING POSITIONS.
-  
-      *** Your program should automatically calculate the 15c3-1 requirement using the guidelines we covereed in class.
-              *** PLEASE ALSO CONSIDER THE "NETTING OF POSITIONS" FOR A BONUS ***
-    
-  [OUTPUT]    CT LONG POS, CT SHORT POS, TTL SHARES LONG, TTL SHARES SHORT, TTL $LONG, TTL $SHORT, TTL $LONG + $SHORT CASH, TTL 15c3-1 CAPITAL REQ.
+Portfolio Exposure Summary  
+REG-T IS WHAT YOU ARE DEALING WITH FOR THIS SECTION OF YOUR FINAL PROJECT.
 
+Your Portfolio Exposure Summary should calculate the Reg-T requirement in lieu of the SEA Rule you all used in the previous assignment.          
+	RSS: REG-T
+	    Here is the information you should read and understand because it is what is available generically to most individuals and institutions.
+  	    https://www.finra.org/rules-guidance/key-topics/margin-accounts
+ 
+  
+	- REMINDER: WHEN YOU MAX OUT YOUR AVAILABLE CASH AND USE LEVERAGE
+	
+        		- IF THE POSITIONS MOVE AGAINST YOU... 
+			- TWS INTERACTIVE WILL AUTOMATICALLY START LIQUIDATING THE POSITIONS IN YOUR ACCOUNT
+ 
+		25% for equities, etc. (4:1 Leverage)
+		etc...
+              
+*** PLEASE ALSO CONSIDER THE "NETTING OF POSITIONS" FOR A BONUS ***
 
+*** I WILL AWARD THE MOST NOTIONAL DOLLAR EXPOSURE AWARD AT THE END OF THE PROJECT IN CASE YOU ARE FALLING BEHIND YOUR CLASS MATES!
+  
+  ** output file should be in *.csv or *.txt and look something like this.
+  
+  [OUTPUT]    {CT LONG POS, CT SHORT POS, TTL SHARES LONG, TTL SHARES SHORT, TTL $LONG, TTL $SHORT, TTL $LONG + $SHORT CASH, SEA 15c3-1, REG-T }
+      
+		*** Your program should already calculate the 15c3-1 requirement using the guidelines we covered in class, 
+		*** Add another column/structure that calculates and buffers out the REG-T Requirement as well.
+  
 ____________________________________________________________________________________________________________________________________________________________
-For reference: 
+References: 
 
 SEA RULE 15C3-1
 >https://www.finra.org/sites/default/files/SEA.Rule_.15c3-1.Interpretations.pdf
