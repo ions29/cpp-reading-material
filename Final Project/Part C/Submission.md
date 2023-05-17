@@ -33,11 +33,11 @@ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJE
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP    COMBINE / FINAL PROJECT     SCORE  
-            Jules CLERC                  1000     750     1000    ----      3750       7500 /  8000            93.75%
-            Damien MAILLARD              1000     750     1000    ----      3750       7500 /  8000            93.75%
-            Jean-Baptiste ROCHE          1000     750     1000    ----      3750       7500 /  8000            93.75%
-            Romain FLORI-CANTRELLE       1000     750     1000    ----      3750       7500 /  8000            93.75%
-            Oriol FARGAS                 1000     750     1000    ----      3750       7500 /  8000            93.75%
+            Jules CLERC                  1000     750     1000    ----      2750       5500 /  6000            91.67%
+            Damien MAILLARD              1000     750     1000    ----      2750       5500 /  6000            91.67%
+            Jean-Baptiste ROCHE          1000     750     1000    ----      2750       5500 /  6000            91.67%
+            Romain FLORI-CANTRELLE       1000     750     1000    ----      2750       5500 /  6000            91.67%
+            Oriol FARGAS                 1000     750     1000    ----      2750       5500 /  6000            91.67%
             
   
     Part B: GROUP SCORES
