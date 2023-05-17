@@ -3,8 +3,8 @@ Final Project, Cumulative Group Scores
 ## Final Project:   Part C
 
 <strong>GROUP SCORES</strong></br>
+&ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 98.33%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2950 / 3000</br>
 &ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 91.67%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2750 / 3000</br>
-&ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 97.50%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1950 / 3000</br>
 &ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 90.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 3000</br>
 &ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 72.50%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1450 / 3000</br>
 </br></br>
@@ -16,10 +16,35 @@ Final Project, Cumulative Group Scores
                                 ____________________
                                 TOTAL    5000 POINTS
 
+## GROUP 1
+  
+[PART B](https://github.com/tcutillo/Tiziano_TurnIn/commit/6da72be6bd65a4252d16560352f01d5b973e88ae#diff-da00cd85c84e13612f41a5be251410fa4b5cd17008a48e7e51ba0ab64476b652)</br>
+[PART C](https://github.com/tcutillo/Tiziano_TurnIn/tree/main/WORK_COMPLETED/RISK_MANAGEMENT/SEA_RULE_PROJECT_1_PART_C)</br>
+
+  <!-- hugo.maltese@epitech.eu, tiziano.cutillo@epitech.eu, romain.dufourt@epitech.eu, corentin.bourdeau@epitech.eu</br> -->  
+  
+                              PART A   1000 Points
+                              PART B    950 Points
+                              PART C   1000
+                              PART D   ----
+                      TOTAL            2950 / 3000
+                      
+            INDIVIDUAL SCORES          
+                                            A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
+            Hugo MALTESE                 1000     950     1000    ----      2950       5900 /  6000             98.33%
+            Tiziano CUTILLO              1000     950     1000    ----      2950       5900 /  6000             98.33%
+            Romain DUFOURT               1000     950     1000    ----      2950       5900 /  6000             98.33%
+            Corentin BOURDEAU            1000     950     1000    ----      2950       5900 /  6000             98.33%
+            
+<!-- Part B: GROUP SCORES-->  
+<!-- -50 PTS LATE-->  
+<!-- https://github.com/tcutillo/Tiziano_TurnIn/commit/6da72be6bd65a4252d16560352f01d5b973e88ae#diff-da00cd85c84e13612f41a5be251410fa4b5cd17008a48e7e51ba0ab64476b652 -->  
+
 
     
 ## GROUP 4
 
+[PART B](https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv)</br>
 [PART C](https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/PART%20III)</br>
 
 
@@ -41,36 +66,14 @@ Final Project, Cumulative Group Scores
             Oriol FARGAS                 1000     750     1000    ----      2750       5500 /  6000            91.67%
             
   
-    Part B: GROUP SCORES
-    -50 PTS.  LATE
-    -50 PTS. INCORRECT 15c3-1 NET CAPITAL CALCULATION</br>
-    -150 PTS. INCORRECT CASH ALLOCATION CALCULATION</br>
+<!-- Part B: GROUP SCORES-->  
+<!-- -50 PTS.  LATE-->  
+<!-- -50 PTS. INCORRECT 15c3-1 NET CAPITAL CALCULATION</br>-->  
+<!-- -150 PTS. INCORRECT CASH ALLOCATION CALCULATION</br>-->  
+<!-- https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv-->  
+<!-- ^ If you want, you can refer back to the section on Rule 15c3-1 and correct this.-->  
+<!-- ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II-->  
     
-    https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv
-    ^ If you want, you can refer back to the section on Rule 15c3-1 and correct this.
-    ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II
-    
-
-## GROUP 1
-  
-  hugo.maltese@epitech.eu, tiziano.cutillo@epitech.eu, romain.dufourt@epitech.eu, corentin.bourdeau@epitech.eu</br>   
-  
-                              PART A   1000 Points
-                              PART B    950 Points
-                              PART C   ----
-                              PART D   ----
-                      TOTAL            1950 / 2000
-                      
-            INDIVIDUAL SCORES          
-                                            A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Hugo MALTESE                 1000     950     ----    ----      1950       3900 /  4000             97.5%
-            Tiziano CUTILLO              1000     950     ----    ----      1950       3900 /  4000             97.5%
-            Romain DUFOURT               1000     950     ----    ----      1950       3900 /  4000             97.5%
-            Corentin BOURDEAU            1000     950     ----    ----      1950       3900 /  4000             97.5%
-            
-    Part B: GROUP SCORES
-    -50 PTS LATE
-    https://github.com/tcutillo/Tiziano_TurnIn/commit/6da72be6bd65a4252d16560352f01d5b973e88ae#diff-da00cd85c84e13612f41a5be251410fa4b5cd17008a48e7e51ba0ab64476b652
 
 
 
