@@ -2,10 +2,11 @@ Final Project, Cumulative Group Scores
 
 ## Final Project:   Part C
 
-Group 1:&nbsp;&nbsp;&nbsp;&nbsp;97.50%</br>
-Group 4:&nbsp;&nbsp;&nbsp;&nbsp;93.75%</br>
-Group 3:&nbsp;&nbsp;&nbsp;&nbsp;90.00%</br>
-Group 2:&nbsp;&nbsp;&nbsp;&nbsp;72.50%</br>
+<strong>GROUP SCORES</strong></br>
+&ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 91.67%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2750 / 3000</br>
+&ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 97.50%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1950 / 3000</br>
+&ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 90.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 3000</br>
+&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 72.50%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1450 / 3000</br>
 </br></br>
                             
                                 PART A   1000 Points
@@ -17,13 +18,13 @@ Group 2:&nbsp;&nbsp;&nbsp;&nbsp;72.50%</br>
 
 
     
-### GROUP 4
+## GROUP 4
 
-PART C</br>
-https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/PART%20III
+[PART C](https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/PART%20III)</br>
 
 
-  jules.clerc@epitech.eu, damien.maillard@epitech.eu, jbroesch@pm.me, orifarfig@gmail.com, romain.flori-cantrelle@epitech.eu</br>
+
+  <!-- jules.clerc@epitech.eu, damien.maillard@epitech.eu, jbroesch@pm.me, orifarfig@gmail.com, romain.flori-cantrelle@epitech.eu</br> -->
   
                               PART A   1000 Points
                               PART B    750 Points
@@ -50,7 +51,7 @@ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJE
     ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II
     
 
-### GROUP 1
+## GROUP 1
   
   hugo.maltese@epitech.eu, tiziano.cutillo@epitech.eu, romain.dufourt@epitech.eu, corentin.bourdeau@epitech.eu</br>   
   
@@ -73,7 +74,7 @@ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJE
 
 
 
-### GROUP 3
+## GROUP 3
   
   maxence.marques-pierre@epitech.eu, ewen1.malenfant@epitech.eu, adam.cuvier@epitech.eu, quentin.lithavone@epitech.eu, martinjules70@gmail.com</br> 
   
@@ -98,7 +99,7 @@ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJE
     https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_B.zip
 
 
-### GROUP 2
+## GROUP 2
   
   pierre.brun@epitech.eu, theo.pomies@epitech.eu, benjamin.ziane@epitech.eu, gregoire.bezier@epitech.eu, tom.wederich@epitech.eu</br>
   
