@@ -2,10 +2,10 @@ Final Project, Cumulative Group Scores
 
 ## Final Project:   Part C
 
-Group 1:&nbsp;&nbsp;&nbsp;&nbsp;97.5%</br>
-Group 3:&nbsp;&nbsp;&nbsp;&nbsp;90.0%</br>
-Group 4:&nbsp;&nbsp;&nbsp;&nbsp;87.5%</br>
-Group 2:&nbsp;&nbsp;&nbsp;&nbsp;72.5%</br>
+Group 1:&nbsp;&nbsp;&nbsp;&nbsp;97.50%</br>
+Group 4:&nbsp;&nbsp;&nbsp;&nbsp;93.75%</br>
+Group 3:&nbsp;&nbsp;&nbsp;&nbsp;90.00%</br>
+Group 2:&nbsp;&nbsp;&nbsp;&nbsp;72.50%</br>
 </br></br>
                             
                                 PART A   1000 Points
@@ -15,6 +15,40 @@ Group 2:&nbsp;&nbsp;&nbsp;&nbsp;72.5%</br>
                                 ____________________
                                 TOTAL    5000 POINTS
 
+
+    
+### GROUP 4
+
+PART C</br>
+https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/PART%20III
+
+
+  jules.clerc@epitech.eu, damien.maillard@epitech.eu, jbroesch@pm.me, orifarfig@gmail.com, romain.flori-cantrelle@epitech.eu</br>
+  
+                              PART A   1000 Points
+                              PART B    750 Points
+                              PART C   1000
+                              PART D   ----
+                      TOTAL            2750 / 3000
+                      
+            INDIVIDUAL SCORES          
+                                            A       B        C       D     GROUP    COMBINE / FINAL PROJECT     SCORE  
+            Jules CLERC                  1000     750     1000    ----      3750       7500 /  8000            93.75%
+            Damien MAILLARD              1000     750     1000    ----      3750       7500 /  8000            93.75%
+            Jean-Baptiste ROCHE          1000     750     1000    ----      3750       7500 /  8000            93.75%
+            Romain FLORI-CANTRELLE       1000     750     1000    ----      3750       7500 /  8000            93.75%
+            Oriol FARGAS                 1000     750     1000    ----      3750       7500 /  8000            93.75%
+            
+  
+    Part B: GROUP SCORES
+    -50 PTS.  LATE
+    -50 PTS. INCORRECT 15c3-1 NET CAPITAL CALCULATION</br>
+    -150 PTS. INCORRECT CASH ALLOCATION CALCULATION</br>
+    
+    https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv
+    ^ If you want, you can refer back to the section on Rule 15c3-1 and correct this.
+    ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II
+    
 
 ### GROUP 1
   
@@ -62,35 +96,6 @@ Group 2:&nbsp;&nbsp;&nbsp;&nbsp;72.5%</br>
     - 200 PTS, LATE
     - Great Job with the output file!
     https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_B.zip
-    
-### GROUP 4
-  
-  jules.clerc@epitech.eu, damien.maillard@epitech.eu, jbroesch@pm.me, orifarfig@gmail.com, romain.flori-cantrelle@epitech.eu</br>
-  
-                              PART A   1000 Points
-                              PART B    750 Points
-                              PART C   ----
-                              PART D   ----
-                      TOTAL            1750 / 2000
-                      
-            INDIVIDUAL SCORES          
-                                            A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Jules CLERC                  1000     750     ----    ----      1750       3500 /  4000             87.5%
-            Damien MAILLARD              1000     750     ----    ----      1750       3500 /  4000             87.5%
-            Jean-Baptiste ROCHE          1000     750     ----    ----      1750       3500 /  4000             87.5%
-            Romain FLORI-CANTRELLE       1000     750     ----    ----      1750       3500 /  4000             87.5%
-            Oriol FARGAS                 1000     750     ----    ----      1750       3500 /  4000             87.5%
-            
-  
-    Part B: GROUP SCORES
-    -50 PTS.  LATE
-    -50 PTS. INCORRECT 15c3-1 NET CAPITAL CALCULATION</br>
-    -150 PTS. INCORRECT CASH ALLOCATION CALCULATION</br>
-    
-    https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv
-    ^ If you want, you can refer back to the section on Rule 15c3-1 and correct this.
-    ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II
-    
 
 
 ### GROUP 2
