@@ -4,9 +4,13 @@ Final Project, Cumulative Group Scores
 
 <strong>GROUP SCORES</strong></br>
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
-&ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 91.67%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2750 / 3000</br>
-&ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 90.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 3000</br>
-&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 72.50%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1450 / 3000</br>
+&ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br></br>
+&ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 60.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 3000</br>
+&ensp; &ensp; &ensp; &ensp; INCOMPLETE: PART C </br>
+&ensp; &ensp; &ensp; &ensp; INCOMPLETE: PART D </br>
+&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 48.30%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1450 / 3000</br>
+&ensp; &ensp; &ensp; &ensp; INCOMPLETE: PART C </br>
+&ensp; &ensp; &ensp; &ensp; INCOMPLETE: PART D </br>
 </br></br>
                             
                                 PART A   1000 Points
@@ -46,7 +50,7 @@ Final Project, Cumulative Group Scores
 
 [PART B](https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv)</br>
 [PART C](https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/PART%20III)</br>
-
+[PART D](https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201#presentation-of-the-automated-trading-project-based-on-interactive-brokers-tws-api)
 
 
   <!-- jules.clerc@epitech.eu, damien.maillard@epitech.eu, jbroesch@pm.me, orifarfig@gmail.com, romain.flori-cantrelle@epitech.eu</br> -->
@@ -54,16 +58,16 @@ Final Project, Cumulative Group Scores
                               PART A   1000 Points
                               PART B    750 Points
                               PART C   1000
-                              PART D   ----
-                      TOTAL            2750 / 3000
+                              PART D   2000
+                      TOTAL            4750 / 3000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP    COMBINE / FINAL PROJECT     SCORE  
-            Jules CLERC                  1000     750     1000    ----      2750       5500 /  6000            91.67%
-            Damien MAILLARD              1000     750     1000    ----      2750       5500 /  6000            91.67%
-            Jean-Baptiste ROCHE          1000     750     1000    ----      2750       5500 /  6000            91.67%
-            Romain FLORI-CANTRELLE       1000     750     1000    ----      2750       5500 /  6000            91.67%
-            Oriol FARGAS                 1000     750     1000    ----      2750       5500 /  6000            91.67%
+            Jules CLERC                  1000     750     1000    2000      4750       9500 /  10000            95.00%
+            Damien MAILLARD              1000     750     1000    2000      4750       9500 /  10000            95.00%
+            Jean-Baptiste ROCHE          1000     750     1000    2000      4750       9500 /  10000            95.00%
+            Romain FLORI-CANTRELLE       1000     750     1000    2000      4750       9500 /  10000            95.00%
+            Oriol FARGAS                 1000     750     1000    2000      4750       9500 /  10000            95.00%
             
   
 <!-- Part B: GROUP SCORES-->  
@@ -85,15 +89,15 @@ Final Project, Cumulative Group Scores
                               PART B    800 Points
                               PART C   ----
                               PART D   ----
-                      TOTAL            1800 / 2000
+                      TOTAL            1800 / 3000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Maxence MARQUES-PIERRE       1000     800     ----    ----      1800       3600 /  4000             90.0%
-            Ewen MALENFANTE              1000     800     ----    ----      1800       3600 /  4000             90.0%
-            Quentin LITHAVONE            1000     800     ----    ----      1800       3600 /  4000             90.0%
-            Adam CUVIER                  1000     800     ----    ----      1800       3600 /  4000             90.0%
-            Jules MARTIN                 1000     800     ----    ----      1800       3600 /  4000             90.0%
+            Maxence MARQUES-PIERRE       1000     800     ----    ----      1800       3600 /  6000             60.0%
+            Ewen MALENFANTE              1000     800     ----    ----      1800       3600 /  6000             60.0%
+            Quentin LITHAVONE            1000     800     ----    ----      1800       3600 /  6000             60.0%
+            Adam CUVIER                  1000     800     ----    ----      1800       3600 /  6000             60.0%
+            Jules MARTIN                 1000     800     ----    ----      1800       3600 /  6000             60.0%
             
     
     Part B: GROUP SCORES
@@ -110,15 +114,15 @@ Final Project, Cumulative Group Scores
                               PART B    450 Points
                               PART C   ----
                               PART D   ----
-                      TOTAL            1450 / 2000
+                      TOTAL            1450 / 3000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Pierre BRUN                  1000     450     ----    ----      1450       2900 /  4000             72.5%
-            Theo POMIES                  1000     450     ----    ----      1450       2900 /  4000             72.5%
-            Benjamin ZIANE               1000     450     ----    ----      1450       2900 /  4000             72.5%
-            Gregoire BEZIER              1000     450     ----    ----      1450       2900 /  4000             72.5%
-            Tom WEDERICH                 1000     450     ----    ----      1450       2900 /  4000             72.5%
+            Pierre BRUN                  1000     450     ----    ----      1450       2900 /  6000             48.3%
+            Theo POMIES                  1000     450     ----    ----      1450       2900 /  6000             48.3%
+            Benjamin ZIANE               1000     450     ----    ----      1450       2900 /  6000             48.3%
+            Gregoire BEZIER              1000     450     ----    ----      1450       2900 /  6000             48.3%
+            Tom WEDERICH                 1000     450     ----    ----      1450       2900 /  6000             48.3%
             
     Part B: GROUP SCORES
     -150 PTS, LATE
