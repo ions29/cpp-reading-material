@@ -2,15 +2,15 @@ Final Project, Cumulative Group Scores
 
 ## Final Project:   Part C
 
-<strong>GROUP SCORES</strong></br>
+<strong>GROUP SCORES</strong></br></br>
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
 &ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br></br>
 &ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 60.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 3000</br>
-&ensp; &ensp; &ensp; &ensp; Missing: PART C </br>
-&ensp; &ensp; &ensp; &ensp; Missing: PART D </br></br>
+&ensp; &ensp; * Missing: Part C </br>
+&ensp; &ensp; * Missing: Part D </br></br>
 &ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 48.30%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1450 / 3000</br>
-&ensp; &ensp; &ensp; &ensp; Missing: PART C </br>
-&ensp; &ensp; &ensp; &ensp; Missing: PART D </br>
+&ensp; &ensp; * Missing: Part C </br>
+&ensp; &ensp; * Missing: Part D </br>
 </br></br>
                             
                                 PART A   1000 Points
