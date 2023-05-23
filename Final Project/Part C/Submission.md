@@ -3,7 +3,7 @@ Final Project, Cumulative Group Scores
 ## Final Project:   Part C
 
 <strong>GROUP SCORES</strong></br>
-&ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 98.33%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2950 / 3000</br>
+&ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
 &ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 91.67%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2750 / 3000</br>
 &ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 90.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 3000</br>
 &ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 72.50%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1450 / 3000</br>
@@ -20,21 +20,21 @@ Final Project, Cumulative Group Scores
   
 [PART B](https://github.com/tcutillo/Tiziano_TurnIn/commit/6da72be6bd65a4252d16560352f01d5b973e88ae#diff-da00cd85c84e13612f41a5be251410fa4b5cd17008a48e7e51ba0ab64476b652)</br>
 [PART C](https://github.com/tcutillo/Tiziano_TurnIn/tree/main/WORK_COMPLETED/RISK_MANAGEMENT/SEA_RULE_PROJECT_1_PART_C)</br>
-
+[PART D](https://github.com/tcutillo/Tiziano_TurnIn/tree/main/WORK_COMPLETED/RISK_MANAGEMENT/SEA_RULE_PROJECT_1_PART_D)</br>
   <!-- hugo.maltese@epitech.eu, tiziano.cutillo@epitech.eu, romain.dufourt@epitech.eu, corentin.bourdeau@epitech.eu</br> -->  
   
                               PART A   1000 Points
                               PART B    950 Points
                               PART C   1000
-                              PART D   ----
-                      TOTAL            2950 / 3000
+                              PART D   2000
+                      TOTAL            4950 / 5000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Hugo MALTESE                 1000     950     1000    ----      2950       5900 /  6000             98.33%
-            Tiziano CUTILLO              1000     950     1000    ----      2950       5900 /  6000             98.33%
-            Romain DUFOURT               1000     950     1000    ----      2950       5900 /  6000             98.33%
-            Corentin BOURDEAU            1000     950     1000    ----      2950       5900 /  6000             98.33%
+            Hugo MALTESE                 1000     950     1000    2000      4950       9900 /  10000            99.00%
+            Tiziano CUTILLO              1000     950     1000    2000      4950       9900 /  10000            99.00%
+            Romain DUFOURT               1000     950     1000    2000      4950       9900 /  10000            99.00%
+            Corentin BOURDEAU            1000     950     1000    2000      4950       9900 /  10000            99.00%
             
 <!-- Part B: GROUP SCORES-->  
 <!-- -50 PTS LATE-->  
