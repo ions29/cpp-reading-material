@@ -2,8 +2,8 @@
 
 <strong>GROUP SCORES</strong></br></br>
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
-&ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br></br>
-&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 51.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2550 / 5000</br>
+&ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br>
+&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 51.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2550 / 5000</br></br>
 &ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 36.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 5000</br>
 &ensp; &ensp; * Missing: Part C </br>
 &ensp; &ensp; * Missing: Part D </br></br>
