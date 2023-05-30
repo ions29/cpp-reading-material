@@ -67,13 +67,13 @@
             Oriol FARGAS                 1000     750     1000    2000      4750       9500 /  10000            95.00%
             
   
-<!-- Part B: GROUP SCORES-->  
-<!-- -50 PTS.  LATE-->  
-<!-- -50 PTS. INCORRECT 15c3-1 NET CAPITAL CALCULATION</br>-->  
-<!-- -150 PTS. INCORRECT CASH ALLOCATION CALCULATION</br>-->  
-<!-- https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv-->  
-<!-- ^ If you want, you can refer back to the section on Rule 15c3-1 and correct this.-->  
-<!-- ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II-->  
+<!-- Part B: GROUP SCORES -->  
+<!-- -50 PTS.  LATE -->  
+<!-- -50 PTS. INCORRECT 15c3-1 NET CAPITAL CALCULATION</br> -->  
+<!-- -150 PTS. INCORRECT CASH ALLOCATION CALCULATION</br> -->  
+<!-- https://github.com/Jules-gitclerc/JulesClerc_TurnIn/blob/main/SEA%20RULE%20PROJECT%201/Part%20II/bond_new.csv -->  
+<!-- ^ If you want, you can refer back to the section on Rule 15c3-1 and correct this. -->  
+<!-- ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II -->  
     
 
 ## GROUP 2
@@ -98,10 +98,11 @@
             Gregoire BEZIER              1000     450      850     250      2550       5100 /  10000            51.0%
             Tom WEDERICH                 1000     450      850     250      2550       5100 /  10000            51.0%
             
-    <!-- Part B: GROUP SCORES  -->
-    <!-- -150 PTS, LATE   -->
-    <!-- -200 PTS, NO OUTPUT FILE WITH CAPITAL ALLOCATION TOTALS.-->
-    <!-- -200 PTS, NO OUTPUT FILE WITH MARGIN REQUIREMENTS. -->
+    
+ <!-- Part B: GROUP SCORES  -->
+ <!-- -150 PTS, LATE   -->
+ <!-- -200 PTS, NO OUTPUT FILE WITH CAPITAL ALLOCATION TOTALS.-->
+ <!-- -200 PTS, NO OUTPUT FILE WITH MARGIN REQUIREMENTS. -->
     
 
 
@@ -115,19 +116,20 @@
                               PART B    800 Points
                               PART C   ----  LATE (-275, 11 DAYS)
                               PART D   ----  LATE (-100, 4 DAYS)
-                      TOTAL            1800 / 3000
+                      TOTAL            1800 / 5000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Maxence MARQUES-PIERRE       1000     800     ----    ----      1800       3600 /  6000             60.0%
-            Ewen MALENFANTE              1000     800     ----    ----      1800       3600 /  6000             60.0%
-            Quentin LITHAVONE            1000     800     ----    ----      1800       3600 /  6000             60.0%
-            Adam CUVIER                  1000     800     ----    ----      1800       3600 /  6000             60.0%
-            Jules MARTIN                 1000     800     ----    ----      1800       3600 /  6000             60.0%
+            Maxence MARQUES-PIERRE       1000     800     ----    ----      1800       3600 /  10000            36.0%
+            Ewen MALENFANTE              1000     800     ----    ----      1800       3600 /  10000            36.0%
+            Quentin LITHAVONE            1000     800     ----    ----      1800       3600 /  10000            36.0%
+            Adam CUVIER                  1000     800     ----    ----      1800       3600 /  10000            36.0%
+            Jules MARTIN                 1000     800     ----    ----      1800       3600 /  10000            36.0%
             
     
-        <!-- Part B: GROUP SCORES   -->
-        <!-- - 200 PTS, LATE -->
-        <!-- - Great Job with the output file!  -->
+ 
+ <!-- Part B: GROUP SCORES   -->
+ <!-- - 200 PTS, LATE -->
+ <!-- - Great Job with the output file!  -->
     
 
