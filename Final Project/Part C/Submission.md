@@ -3,8 +3,7 @@
 <strong>GROUP SCORES</strong></br></br>
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
 &ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br></br>
-&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 46.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2300 / 5000</br>
-&ensp; &ensp; * Missing: Part D </br></br>
+&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 51.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2550 / 5000</br>
 &ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 36.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 5000</br>
 &ensp; &ensp; * Missing: Part C </br>
 &ensp; &ensp; * Missing: Part D </br></br>
@@ -80,23 +79,24 @@
 ## GROUP 2
   
 [PART B](https://github.com/RassGo/PIERREBRUN_TurnIn/tree/main/Sea%20Project/TWS%20API%206)</br>
-[PART C](https://github.com/TheGorb/TomWederich_TurnIn/tree/main/Bo_Excercise/Exercise_Result/FINAL_PROJECT)
+[PART C](https://github.com/TheGorb/TomWederich_TurnIn/tree/main/Bo_Excercise/Exercise_Result/FINAL_PROJECT)</br>
+[PART D](https://github.com/gregoirebezier/Gregoire_Turnin/blob/master/final_proj_part_d.txt)
 
   <!-- pierre.brun@epitech.eu, theo.pomies@epitech.eu, benjamin.ziane@epitech.eu, gregoire.bezier@epitech.eu, tom.wederich@epitech.eu</br>  -->
   
                               PART A   1000 Points
                               PART B    450 Points
                               PART C    850 Points
-                              PART D   ----
-                      TOTAL            2300 / 5000
+                              PART D    250 Points  ** I WILL GIVE YOU 250 Points for clicking submit, you have until the end of the week to earn the other 1750 points
+                      TOTAL            2550 / 5000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Pierre BRUN                  1000     450      850    ----      2300       4600 /  10000            46.0%
-            Theo POMIES                  1000     450      850    ----      2300       4600 /  10000            46.0%
-            Benjamin ZIANE               1000     450      850    ----      2300       4600 /  10000            46.0%
-            Gregoire BEZIER              1000     450      850    ----      2300       4600 /  10000            46.0%
-            Tom WEDERICH                 1000     450      850    ----      2300       4600 /  10000            46.0%
+            Pierre BRUN                  1000     450      850     250      2550       5100 /  10000            51.0%
+            Theo POMIES                  1000     450      850     250      2550       5100 /  10000            51.0%
+            Benjamin ZIANE               1000     450      850     250      2550       5100 /  10000            51.0%
+            Gregoire BEZIER              1000     450      850     250      2550       5100 /  10000            51.0%
+            Tom WEDERICH                 1000     450      850     250      2550       5100 /  10000            51.0%
             
     <!-- Part B: GROUP SCORES  -->
     <!-- -150 PTS, LATE   -->
