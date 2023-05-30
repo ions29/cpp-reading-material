@@ -1,6 +1,4 @@
-Final Project, Cumulative Group Scores
-
-## Final Project:   Part C, Part D
+## Final Project:   Cumulative Group Scores
 
 <strong>GROUP SCORES</strong></br></br>
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
@@ -115,8 +113,8 @@ Final Project, Cumulative Group Scores
   
                               PART A   1000 Points
                               PART B    800 Points
-                              PART C   ----
-                              PART D   ----
+                              PART C   ----  LATE (-275, 11 DAYS)
+                              PART D   ----  LATE (-100, 4 DAYS)
                       TOTAL            1800 / 3000
                       
             INDIVIDUAL SCORES          
