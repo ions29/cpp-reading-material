@@ -79,7 +79,7 @@
 
 ## GROUP 2
   
-[PART B](https://github.com/RassGo/PIERREBRUN_TurnIn/tree/main/Sea%20Project/TWS%20API%206)
+[PART B](https://github.com/RassGo/PIERREBRUN_TurnIn/tree/main/Sea%20Project/TWS%20API%206)</br>
 [PART C](https://github.com/TheGorb/TomWederich_TurnIn/tree/main/Bo_Excercise/Exercise_Result/FINAL_PROJECT)
 
   <!-- pierre.brun@epitech.eu, theo.pomies@epitech.eu, benjamin.ziane@epitech.eu, gregoire.bezier@epitech.eu, tom.wederich@epitech.eu</br>  -->
