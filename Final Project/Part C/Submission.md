@@ -1,17 +1,17 @@
 Final Project, Cumulative Group Scores
 
-## Final Project:   Part C
+## Final Project:   Part C, Part D
 
 <strong>GROUP SCORES</strong></br></br>
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
 &ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br></br>
-&ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 60.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 3000</br>
+&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 46.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2300 / 5000</br>
+&ensp; &ensp; * Missing: Part D </br></br>
+&ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 36.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 5000</br>
 &ensp; &ensp; * Missing: Part C </br>
 &ensp; &ensp; * Missing: Part D </br></br>
-&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 48.30%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1450 / 3000</br>
-&ensp; &ensp; * Missing: Part C </br>
-&ensp; &ensp; * Missing: Part D </br>
 </br></br>
+                            <strong>GROUP POINTS POSSIBLE</strong>
                             
                                 PART A   1000 Points
                                 PART B   1000 Points
@@ -59,7 +59,7 @@ Final Project, Cumulative Group Scores
                               PART B    750 Points
                               PART C   1000
                               PART D   2000
-                      TOTAL            4750 / 3000
+                      TOTAL            4750 / 5000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP    COMBINE / FINAL PROJECT     SCORE  
@@ -79,9 +79,37 @@ Final Project, Cumulative Group Scores
 <!-- ^ https://github.com/Jules-gitclerc/JulesClerc_TurnIn/tree/main/SEA%20RULE%20PROJECT%201/Part%20II-->  
     
 
+## GROUP 2
+  
+[PART B](https://github.com/RassGo/PIERREBRUN_TurnIn/tree/main/Sea%20Project/TWS%20API%206)
+[PART C](https://github.com/TheGorb/TomWederich_TurnIn/tree/main/Bo_Excercise/Exercise_Result/FINAL_PROJECT)
+
+  <-- pierre.brun@epitech.eu, theo.pomies@epitech.eu, benjamin.ziane@epitech.eu, gregoire.bezier@epitech.eu, tom.wederich@epitech.eu</br>  -->
+  
+                              PART A   1000 Points
+                              PART B    450 Points
+                              PART C    850 Points
+                              PART D   ----
+                      TOTAL            2300 / 5000
+                      
+            INDIVIDUAL SCORES          
+                                            A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
+            Pierre BRUN                  1000     450      850    ----      2300       4600 /  10000            46.0%
+            Theo POMIES                  1000     450      850    ----      2300       4600 /  10000            46.0%
+            Benjamin ZIANE               1000     450      850    ----      2300       4600 /  10000            46.0%
+            Gregoire BEZIER              1000     450      850    ----      2300       4600 /  10000            46.0%
+            Tom WEDERICH                 1000     450      850    ----      2300       4600 /  10000            46.0%
+            
+    <-- Part B: GROUP SCORES  -->
+    <-- -150 PTS, LATE   -->
+    <-- -200 PTS, NO OUTPUT FILE WITH CAPITAL ALLOCATION TOTALS.-->
+    <-- -200 PTS, NO OUTPUT FILE WITH MARGIN REQUIREMENTS. -->
+    
 
 
 ## GROUP 3
+  
+[PART B](https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_B.zip)
   
   maxence.marques-pierre@epitech.eu, ewen1.malenfant@epitech.eu, adam.cuvier@epitech.eu, quentin.lithavone@epitech.eu, martinjules70@gmail.com</br> 
   
@@ -100,33 +128,9 @@ Final Project, Cumulative Group Scores
             Jules MARTIN                 1000     800     ----    ----      1800       3600 /  6000             60.0%
             
     
-    Part B: GROUP SCORES
-    - 200 PTS, LATE
-    - Great Job with the output file!
-    https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_B.zip
+        <-- Part B: GROUP SCORES   -->
+        <-- - 200 PTS, LATE -->
+        <-- - Great Job with the output file!  -->
+    
 
-
-## GROUP 2
-  
-  pierre.brun@epitech.eu, theo.pomies@epitech.eu, benjamin.ziane@epitech.eu, gregoire.bezier@epitech.eu, tom.wederich@epitech.eu</br>
-  
-                              PART A   1000 Points
-                              PART B    450 Points
-                              PART C   ----
-                              PART D   ----
-                      TOTAL            1450 / 3000
-                      
-            INDIVIDUAL SCORES          
-                                            A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Pierre BRUN                  1000     450     ----    ----      1450       2900 /  6000             48.3%
-            Theo POMIES                  1000     450     ----    ----      1450       2900 /  6000             48.3%
-            Benjamin ZIANE               1000     450     ----    ----      1450       2900 /  6000             48.3%
-            Gregoire BEZIER              1000     450     ----    ----      1450       2900 /  6000             48.3%
-            Tom WEDERICH                 1000     450     ----    ----      1450       2900 /  6000             48.3%
-            
-    Part B: GROUP SCORES
-    -150 PTS, LATE
-    -200 PTS, NO OUTPUT FILE WITH CAPITAL ALLOCATION TOTALS.
-    -200 PTS, NO OUTPUT FILE WITH MARGIN REQUIREMENTS.
-    https://github.com/RassGo/PIERREBRUN_TurnIn/tree/main/Sea%20Project/TWS%20API%206
 
