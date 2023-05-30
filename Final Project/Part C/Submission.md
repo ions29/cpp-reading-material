@@ -82,7 +82,7 @@
 [PART B](https://github.com/RassGo/PIERREBRUN_TurnIn/tree/main/Sea%20Project/TWS%20API%206)
 [PART C](https://github.com/TheGorb/TomWederich_TurnIn/tree/main/Bo_Excercise/Exercise_Result/FINAL_PROJECT)
 
-  <-- pierre.brun@epitech.eu, theo.pomies@epitech.eu, benjamin.ziane@epitech.eu, gregoire.bezier@epitech.eu, tom.wederich@epitech.eu</br>  -->
+  <!-- pierre.brun@epitech.eu, theo.pomies@epitech.eu, benjamin.ziane@epitech.eu, gregoire.bezier@epitech.eu, tom.wederich@epitech.eu</br>  -->
   
                               PART A   1000 Points
                               PART B    450 Points
@@ -98,10 +98,10 @@
             Gregoire BEZIER              1000     450      850    ----      2300       4600 /  10000            46.0%
             Tom WEDERICH                 1000     450      850    ----      2300       4600 /  10000            46.0%
             
-    <-- Part B: GROUP SCORES  -->
-    <-- -150 PTS, LATE   -->
-    <-- -200 PTS, NO OUTPUT FILE WITH CAPITAL ALLOCATION TOTALS.-->
-    <-- -200 PTS, NO OUTPUT FILE WITH MARGIN REQUIREMENTS. -->
+    <!-- Part B: GROUP SCORES  -->
+    <!-- -150 PTS, LATE   -->
+    <!-- -200 PTS, NO OUTPUT FILE WITH CAPITAL ALLOCATION TOTALS.-->
+    <!-- -200 PTS, NO OUTPUT FILE WITH MARGIN REQUIREMENTS. -->
     
 
 
@@ -109,7 +109,7 @@
   
 [PART B](https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_B.zip)
   
-  maxence.marques-pierre@epitech.eu, ewen1.malenfant@epitech.eu, adam.cuvier@epitech.eu, quentin.lithavone@epitech.eu, martinjules70@gmail.com</br> 
+  <!-- maxence.marques-pierre@epitech.eu, ewen1.malenfant@epitech.eu, adam.cuvier@epitech.eu, quentin.lithavone@epitech.eu, martinjules70@gmail.com</br> -->
   
                               PART A   1000 Points
                               PART B    800 Points
@@ -126,9 +126,8 @@
             Jules MARTIN                 1000     800     ----    ----      1800       3600 /  6000             60.0%
             
     
-        <-- Part B: GROUP SCORES   -->
-        <-- - 200 PTS, LATE -->
-        <-- - Great Job with the output file!  -->
+        <!-- Part B: GROUP SCORES   -->
+        <!-- - 200 PTS, LATE -->
+        <!-- - Great Job with the output file!  -->
     
-
 
