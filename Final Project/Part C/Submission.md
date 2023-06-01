@@ -107,18 +107,20 @@
 
 ## GROUP 3
   
-[PART B](https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_B.zip)
-  
+[PART B](https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_B.zip)</br>
+[PART C](https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_C.zip)</br>
+[PART D](https://github.com/ions29/cpp-reading-material/blob/main/Final%20Project/PROJECT_1_PART_D.zip)</br>
+    
   <!-- maxence.marques-pierre@epitech.eu, ewen1.malenfant@epitech.eu, adam.cuvier@epitech.eu, quentin.lithavone@epitech.eu, martinjules70@gmail.com</br> -->
   
                               PART A   1000 Points
                               PART B    800 Points
                               PART C    725 Points
-                              PART D   1875 Points
+                              PART D   1875 Points *** DO OVER.
                       TOTAL            4400 / 5000
                       
             INDIVIDUAL SCORES          
-                                            A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
+                                            A       B        C    ***D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
             Maxence MARQUES-PIERRE       1000     800      725    1875      4400       8800 /  10000            88.0%
             Ewen MALENFANTE              1000     800      725    1875      4400       8800 /  10000            88.0%
             Quentin LITHAVONE            1000     800      725    1875      4400       8800 /  10000            88.0%
