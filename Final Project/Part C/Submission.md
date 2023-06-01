@@ -3,10 +3,9 @@
 <strong>GROUP SCORES</strong></br></br>
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
 &ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br>
+&ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 88.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4400 / 5000</br>
 &ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 51.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2550 / 5000</br></br>
-&ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 36.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 1800 / 5000</br>
-&ensp; &ensp; * Missing: Part C </br>
-&ensp; &ensp; * Missing: Part D </br></br>
+
 </br></br>
                             <strong>GROUP POINTS POSSIBLE</strong>
                             
@@ -114,22 +113,24 @@
   
                               PART A   1000 Points
                               PART B    800 Points
-                              PART C   ----  LATE (-275, 11 DAYS)
-                              PART D   ----  LATE (-100, 4 DAYS)
-                      TOTAL            1800 / 5000
+                              PART C    725 Points
+                              PART D   1875 Points
+                      TOTAL            4400 / 5000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Maxence MARQUES-PIERRE       1000     800     ----    ----      1800       3600 /  10000            36.0%
-            Ewen MALENFANTE              1000     800     ----    ----      1800       3600 /  10000            36.0%
-            Quentin LITHAVONE            1000     800     ----    ----      1800       3600 /  10000            36.0%
-            Adam CUVIER                  1000     800     ----    ----      1800       3600 /  10000            36.0%
-            Jules MARTIN                 1000     800     ----    ----      1800       3600 /  10000            36.0%
+            Maxence MARQUES-PIERRE       1000     800      725    1875      4400       8800 /  10000            88.0%
+            Ewen MALENFANTE              1000     800      725    1875      4400       8800 /  10000            88.0%
+            Quentin LITHAVONE            1000     800      725    1875      4400       8800 /  10000            88.0%
+            Adam CUVIER                  1000     800      725    1875      4400       8800 /  10000            88.0%
+            Jules MARTIN                 1000     800      725    1875      4400       8800 /  10000            88.0%
             
     
  
  <!-- Part B: GROUP SCORES   -->
  <!-- - 200 PTS, LATE -->
+ <!-- - PART C    725  LATE (-275, 11 DAYS) -->
+ <!-- - PART D   1875  LATE (-125, 4 DAYS) -->
  <!-- - Great Job with the output file!  -->
     
 
