@@ -4,7 +4,7 @@
 &ensp; &ensp; Group 1&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 99.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4950 / 5000</br>
 &ensp; &ensp; Group 4&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 95.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4750 / 5000</br>
 &ensp; &ensp; Group 3&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 88.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4400 / 5000</br>
-&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 51.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2550 / 5000</br></br>
+&ensp; &ensp; Group 2&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 81.00%&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 4050 / 5000</br></br>
 
 </br></br>
                             <strong>GROUP POINTS POSSIBLE</strong>
@@ -86,16 +86,16 @@
                               PART A   1000 Points
                               PART B    450 Points
                               PART C    850 Points
-                              PART D    250 Points  ** I WILL GIVE YOU 250 Points for clicking submit, you have until the end of the week to earn the other 1750 points
-                      TOTAL            2550 / 5000
+                              PART D   1750 Points  
+                      TOTAL            4050 / 5000
                       
             INDIVIDUAL SCORES          
                                             A       B        C       D     GROUP   COMBINE  / FINAL PROJECT     SCORE  
-            Pierre BRUN                  1000     450      850     250      2550       5100 /  10000            51.0%
-            Theo POMIES                  1000     450      850     250      2550       5100 /  10000            51.0%
-            Benjamin ZIANE               1000     450      850     250      2550       5100 /  10000            51.0%
-            Gregoire BEZIER              1000     450      850     250      2550       5100 /  10000            51.0%
-            Tom WEDERICH                 1000     450      850     250      2550       5100 /  10000            51.0%
+            Pierre BRUN                  1000     450      850    1750      4050       8100 /  10000            81.0%
+            Theo POMIES                  1000     450      850    1750      4050       8100 /  10000            81.0%
+            Benjamin ZIANE               1000     450      850    1750      4050       8100 /  10000            81.0%
+            Gregoire BEZIER              1000     450      850    1750      4050       8100 /  10000            81.0%
+            Tom WEDERICH                 1000     450      850    1750      4050       8100 /  10000            81.0%
             
     
  <!-- Part B: GROUP SCORES  -->
