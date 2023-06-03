@@ -1,11 +1,12 @@
 ## EXTRA CREDIT ASSIGNMENTS
 Here is a list of assignments, and points possible.</br>
 
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6eb19a12-cb1f-404f-8ca3-02a858ea418a)
+</br>
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/69aabd8b-d0a2-489a-9206-6a6fa8a8f4e1)
 </br></br>
 
-
-![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6eb19a12-cb1f-404f-8ca3-02a858ea418a)
 
 Every 100 Pts is equivalent to 1HR of make-up for attendance/ or can be used to replace a lowest score</br></br>
 <strong>Are still available</strong></br></br>
