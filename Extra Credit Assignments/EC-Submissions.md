@@ -16,6 +16,9 @@ www.gradescope.com</br>
 9	    S  57: Securities Trader Quiz, 600</br></br>
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/69aabd8b-d0a2-489a-9206-6a6fa8a8f4e1)
 </br></br>
-![image](https://github.com/ions29/cpp-reading-material/assets/127531384/3bd27992-1a95-476c-9dd0-bb468b55f6ab)
 
-[summary](https://github.com/ions29/cpp-reading-material/files/11644297/extra.credit.scores.xlsx)
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/681aa2d3-57c1-4dbd-930c-77200b302929)
+
+
+[summary table](https://github.com/ions29/cpp-reading-material/files/11644314/extra.credit.scores.xlsx)
+
