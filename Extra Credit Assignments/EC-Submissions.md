@@ -3,7 +3,7 @@ Here is a list of assignments, and points possible.</br>
 Every 100 Pts is equivalent to 1HR of make-up for attendance/ or can be used to replace a lowest score</br></br>
 <strong>Are still available</strong></br></br>
 www.gradescope.com</br>
-Entry Code:6Z3ZRN</br>
+
 </br></br>
 1	    Brief History of the Exchequer, 300</br>
 2	    Portfolio Risk Management, 540</br>
