@@ -28,3 +28,5 @@ www.gradescope.com</br>
 [TWS 1](https://github.com/ions29/cpp-reading-material/files/11644955/submissions-4.2-how.markets.endorse.crypto.technology.-.TWS1.zip)
 
 [TWS 2](https://github.com/ions29/cpp-reading-material/files/11645006/submissions-Section.4.3.-.TWS2.zip)
+
+[TWS 3](https://github.com/ions29/cpp-reading-material/files/11645008/submissions-Section.4-DeFi.-.TWS.3.zip)
