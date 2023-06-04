@@ -12,6 +12,7 @@
 
 [SEA Rule 153c-1 Risk Capital-and Leverage](https://github.com/ions29/cpp-reading-material/files/11645075/submissions-SEA.Rule-Risk.Capital-and.Leverage.zip)
 
+[Section 4: Proprietary Trading and Risk Management Exam](https://github.com/ions29/cpp-reading-material/files/11645077/submissions-Section.4-Prop.Trading.and.Risk.Exam.zip)
 
 
 [C++ Data Structures and Algorithm Analysis - Chapter 3](https://github.com/ions29/cpp-reading-material/files/11645063/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.3.zip)
@@ -25,9 +26,9 @@
 
 
 
-[Section 10-Part 1- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645057/Section.10-Part.1--submissions-.Portfolio.Risk.Management.zip)
+[Section 10: Part 1- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645057/Section.10-Part.1--submissions-.Portfolio.Risk.Management.zip)
 
-[Section 10-Part 2- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645056/Section.10-Part.2--submissions-.Portfolio.Risk.Management.zip)
+[Section 10: Part 2- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645056/Section.10-Part.2--submissions-.Portfolio.Risk.Management.zip)
    
 [Business-Grant-Proposal-Project](https://github.com/ions29/cpp-reading-material/files/11645062/submissions-Business-Grant-Proposal-Project.zip)
 
