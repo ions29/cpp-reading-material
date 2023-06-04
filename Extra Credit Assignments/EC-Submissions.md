@@ -45,6 +45,8 @@
 
 [LaPlace--Discreet Random Variables](https://github.com/ions29/cpp-reading-material/files/11645070/submissions--LaPlace--Discreet.Random.Variables.zip)
 
+[Trader Qualification - Regulatory Quiz](https://github.com/ions29/cpp-reading-material/files/11645100/submissions--S57.Trader.Qualification.Quiz.zip)
+
 [The Exchequer](https://github.com/ions29/cpp-reading-material/files/11645091/submissions--Exchequer.zip)
 
 ## EXTRA CREDIT ASSIGNMENTS
