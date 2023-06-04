@@ -41,6 +41,7 @@
 
 [LaPlace--Discreet Random Variables](https://github.com/ions29/cpp-reading-material/files/11645070/submissions--LaPlace--Discreet.Random.Variables.zip)
 
+[The Exchequer](https://github.com/ions29/cpp-reading-material/files/11645091/submissions--Exchequer.zip)
 
 ## EXTRA CREDIT ASSIGNMENTS
 
