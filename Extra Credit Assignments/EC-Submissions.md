@@ -32,3 +32,8 @@ www.gradescope.com</br>
 [TWS 3](https://github.com/ions29/cpp-reading-material/files/11645008/submissions-Section.4-DeFi.-.TWS.3.zip)
 
 [TWS 4](https://github.com/ions29/cpp-reading-material/files/11645052/submissions-Section.5-.TWS4.-.Financial.Markets.Innovations.zip)
+
+[Section 10-Part 1- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645057/Section.10-Part.1--submissions-.Portfolio.Risk.Management.zip)
+
+[Section 10-Part 2- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645056/Section.10-Part.2--submissions-.Portfolio.Risk.Management.zip)
+
