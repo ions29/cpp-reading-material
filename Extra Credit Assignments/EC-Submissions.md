@@ -25,8 +25,12 @@
    
 [Business-Grant-Proposal-Project](https://github.com/ions29/cpp-reading-material/files/11645062/submissions-Business-Grant-Proposal-Project.zip)
 
+[LaPlace--Probability Sets](https://github.com/ions29/cpp-reading-material/files/11645069/submissions--LaPlace--Probability.Sets.zip)
 
-## EXTRA CREDIT ASSIGNMENTS: TIMELY FILED.
+[LaPlace--Discreet Random Variables](https://github.com/ions29/cpp-reading-material/files/11645070/submissions--LaPlace--Discreet.Random.Variables.zip)
+
+
+## EXTRA CREDIT ASSIGNMENTS
 
 [summary table](https://github.com/ions29/cpp-reading-material/files/11644373/extra.credit.scores.xlsx)
 
