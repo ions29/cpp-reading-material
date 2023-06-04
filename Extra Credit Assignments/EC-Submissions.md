@@ -12,7 +12,7 @@
 
 [C++ Data Structures and Algorithm Analysis - Chapter 4](https://github.com/ions29/cpp-reading-material/files/11645064/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.4.zip)
 
-[C++ Data Structures and Algorithm Analysis - Chapter 6] Priority Queues.zip](https://github.com/ions29/cpp-reading-material/files/11645065/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.6.Priority.Queues.zip)
+[C++ Data Structures and Algorithm Analysis - Chapter 6](https://github.com/ions29/cpp-reading-material/files/11645065/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.6.Priority.Queues.zip)
 
 
 
