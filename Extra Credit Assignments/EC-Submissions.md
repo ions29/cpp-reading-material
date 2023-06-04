@@ -23,7 +23,7 @@
 
 [C++ Data Structures and Algorithm Analysis - Chapter 10](https://github.com/ions29/cpp-reading-material/files/11645066/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.10.zip)
 
-
+[Section 8: Leverage Risk and Portfolio Management](https://github.com/ions29/cpp-reading-material/files/11645084/submissions-Section.8-.Leverage.Risk.and.Portfolio.Management.zip)
 
 
 [Section 10: Part 1- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645057/Section.10-Part.1--submissions-.Portfolio.Risk.Management.zip)
