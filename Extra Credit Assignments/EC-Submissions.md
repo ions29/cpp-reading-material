@@ -36,4 +36,7 @@ www.gradescope.com</br>
 [Section 10-Part 1- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645057/Section.10-Part.1--submissions-.Portfolio.Risk.Management.zip)
 
 [Section 10-Part 2- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645056/Section.10-Part.2--submissions-.Portfolio.Risk.Management.zip)
+   
+[Business-Grant-Proposal-Project](https://github.com/ions29/cpp-reading-material/files/11645062/submissions-Business-Grant-Proposal-Project.zip)
+
 
