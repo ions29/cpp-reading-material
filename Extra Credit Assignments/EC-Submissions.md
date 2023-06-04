@@ -1,4 +1,4 @@
-# Assignments and Submitted Work</br>
+# Exams and Course Work</br>
 
 [TWS 1](https://github.com/ions29/cpp-reading-material/files/11644955/submissions-4.2-how.markets.endorse.crypto.technology.-.TWS1.zip)
 
