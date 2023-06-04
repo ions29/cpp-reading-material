@@ -30,3 +30,5 @@ www.gradescope.com</br>
 [TWS 2](https://github.com/ions29/cpp-reading-material/files/11645006/submissions-Section.4.3.-.TWS2.zip)
 
 [TWS 3](https://github.com/ions29/cpp-reading-material/files/11645008/submissions-Section.4-DeFi.-.TWS.3.zip)
+
+[TWS 4](https://github.com/ions29/cpp-reading-material/files/11645052/submissions-Section.5-.TWS4.-.Financial.Markets.Innovations.zip)
