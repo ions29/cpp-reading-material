@@ -38,6 +38,9 @@
 
 [Business-Grant-Proposal-Project](https://github.com/ions29/cpp-reading-material/files/11645062/submissions-Business-Grant-Proposal-Project.zip)
 
+["Professional Blueprint" Resume and Programming Portfolio](https://github.com/ions29/cpp-reading-material/files/11645096/submissions-Resume.Assignments.zip)
+
+
 [LaPlace--Probability Sets](https://github.com/ions29/cpp-reading-material/files/11645069/submissions--LaPlace--Probability.Sets.zip)
 
 [LaPlace--Discreet Random Variables](https://github.com/ions29/cpp-reading-material/files/11645070/submissions--LaPlace--Discreet.Random.Variables.zip)
