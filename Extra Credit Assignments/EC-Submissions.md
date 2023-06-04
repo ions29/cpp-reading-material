@@ -8,6 +8,9 @@
 
 [TWS 4](https://github.com/ions29/cpp-reading-material/files/11645052/submissions-Section.5-.TWS4.-.Financial.Markets.Innovations.zip)
 
+[HASKELL QUIZ](https://github.com/ions29/cpp-reading-material/files/11645074/submissions-HASKELL.QUIZ.zip)
+
+
 [C++ Data Structures and Algorithm Analysis - Chapter 3](https://github.com/ions29/cpp-reading-material/files/11645063/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.3.zip)
 
 [C++ Data Structures and Algorithm Analysis - Chapter 4](https://github.com/ions29/cpp-reading-material/files/11645064/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.4.zip)
