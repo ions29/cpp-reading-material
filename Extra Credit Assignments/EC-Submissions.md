@@ -10,6 +10,9 @@
 
 [HASKELL QUIZ](https://github.com/ions29/cpp-reading-material/files/11645074/submissions-HASKELL.QUIZ.zip)
 
+[SEA Rule 153c-1 Risk Capital-and Leverage](https://github.com/ions29/cpp-reading-material/files/11645075/submissions-SEA.Rule-Risk.Capital-and.Leverage.zip)
+
+
 
 [C++ Data Structures and Algorithm Analysis - Chapter 3](https://github.com/ions29/cpp-reading-material/files/11645063/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.3.zip)
 
