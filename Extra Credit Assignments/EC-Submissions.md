@@ -33,6 +33,14 @@ www.gradescope.com</br>
 
 [TWS 4](https://github.com/ions29/cpp-reading-material/files/11645052/submissions-Section.5-.TWS4.-.Financial.Markets.Innovations.zip)
 
+[C++ Data Structures and Algorithm Analysis - Chapter 3](https://github.com/ions29/cpp-reading-material/files/11645063/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.3.zip)
+
+[C++ Data Structures and Algorithm Analysis - Chapter 4](https://github.com/ions29/cpp-reading-material/files/11645064/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.4.zip)
+
+[C++ Data Structures and Algorithm Analysis - Chapter 6] Priority Queues.zip](https://github.com/ions29/cpp-reading-material/files/11645065/submissions--Data.Structures.and.Algorithm.Analysis.Chapter.6.Priority.Queues.zip)
+
+
+
 [Section 10-Part 1- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645057/Section.10-Part.1--submissions-.Portfolio.Risk.Management.zip)
 
 [Section 10-Part 2- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645056/Section.10-Part.2--submissions-.Portfolio.Risk.Management.zip)
