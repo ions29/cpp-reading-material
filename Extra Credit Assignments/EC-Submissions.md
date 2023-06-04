@@ -25,11 +25,12 @@
 
 [Section 8: Leverage Risk and Portfolio Management](https://github.com/ions29/cpp-reading-material/files/11645084/submissions-Section.8-.Leverage.Risk.and.Portfolio.Management.zip)
 
+[Section 10: Accrued Interest](https://github.com/ions29/cpp-reading-material/files/11645087/submissions-Section.10-Accrued.Interest.zip)
 
 [Section 10: Part 1- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645057/Section.10-Part.1--submissions-.Portfolio.Risk.Management.zip)
 
 [Section 10: Part 2- Portfolio Risk Management](https://github.com/ions29/cpp-reading-material/files/11645056/Section.10-Part.2--submissions-.Portfolio.Risk.Management.zip)
-   
+
 [Business-Grant-Proposal-Project](https://github.com/ions29/cpp-reading-material/files/11645062/submissions-Business-Grant-Proposal-Project.zip)
 
 [LaPlace--Probability Sets](https://github.com/ions29/cpp-reading-material/files/11645069/submissions--LaPlace--Probability.Sets.zip)
