@@ -12,6 +12,10 @@
 
 [SEA Rule 153c-1 Risk Capital-and Leverage](https://github.com/ions29/cpp-reading-material/files/11645075/submissions-SEA.Rule-Risk.Capital-and.Leverage.zip)
 
+
+[Section 4: New Technology, How The Markets Endorse Crypto Technology](https://github.com/ions29/cpp-reading-material/files/11645089/Section.4.4-New.Technology-submissions-.zip)
+
+
 [Section 4: Proprietary Trading and Risk Management Exam](https://github.com/ions29/cpp-reading-material/files/11645077/submissions-Section.4-Prop.Trading.and.Risk.Exam.zip)
 
 
