@@ -3,19 +3,10 @@
 
 <br>
 
-## Information Systems Simulators
+## Forward Testing/ QA Simulators
 * https://kx.com/products/kdb/
 * https://www.stocktrak.com/
 * https://www.cloudquant.com/catalog
-
-<br>
- 
-
-## FIX Programming Resources
-* https://www.onixs.biz/fix-dictionary/4.2/fields_by_tag.html
-* https://quickfixengine.org/c/documentation/
-* https://conan.io/center/quickfix?os=Windows&tab=overview
-
 
 <br>
 
@@ -31,6 +22,9 @@
 ## Scratch Programming
 * Scratch Programming Instructor/ Program: [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
 
-
+<br>
  
 
+## FIX Programming Resources
+* [FIX Tags](https://www.onixs.biz/fix-dictionary/4.2/fields_by_tag.html)
+* [Quick FIX](https://quickfixengine.org/c/documentation/)
