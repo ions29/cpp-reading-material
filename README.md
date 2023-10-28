@@ -9,6 +9,15 @@
 * https://www.cloudquant.com/catalog
 
 <br>
+ 
+
+## FIX Programming Resources
+* https://www.onixs.biz/fix-dictionary/4.2/fields_by_tag.html
+* https://quickfixengine.org/c/documentation/
+* https://conan.io/center/quickfix?os=Windows&tab=overview
+
+
+<br>
 
 # Police Athletic League Programs ![PAL](https://images.squarespace-cdn.com/content/v1/549af14be4b038053fe035c4/1539955241053-Y44WLCS7VF1YZWKMHJNA/PAL+Logo.jpg?format=2500w)
 
@@ -23,15 +32,5 @@
 * Scratch Programming Instructor/ Program: [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
 
 
-  
-
-
-<br>
-
-
-## FIX Programming Resources
-* https://www.onixs.biz/fix-dictionary/4.2/fields_by_tag.html
-* https://quickfixengine.org/c/documentation/
-* https://conan.io/center/quickfix?os=Windows&tab=overview
-
+ 
 
