@@ -1,0 +1,16 @@
+The students will be further developing and collaborating their findings from the prior Project to establish 
+conditional rules that trigger real-time market order on the basis of buying pressure, volume, selling 
+pressure, lack of volume, in addition to other determinants discussed in class. Students will receive an 
+individual grade as well as a group grade which combines for 500 points. 
+
+At this junction, the students 
+are primarily responsible for producing outputs with their indicators without any market orders attached 
+to the information. In the week which ensues we will be working to target various order on both the 
+underlying securities as well as their derivative contracts. The premise of this exercise is to evaluate a 
+larger market (WTI, or BTH… for example) and to determine what happens to their respective ETF tickers, 
+or relative markets which are cased in iBoxx Market derivatives (as an example) which we will be 
+evaluating in the following week. 
+
+https://github.com/ions29/cpp-reading-material/blob/main/TWS3/Regression
+
+https://github.com/ions29/cpp-reading-material/blob/main/TWS3/spreadsheet.xlsx
