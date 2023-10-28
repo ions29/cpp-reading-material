@@ -1,0 +1,29 @@
+Upload to Gradescope when you are done with the Problem Set.
+- There are a handful of them available as of current, 6 Total,
+- 100 Points = `1 HR   
+  
+  
+   C++, Algorithm Analysis
+
+      Chapter   3.  Lists, Stacks, and Queues           (500 PTS)
+      Chapter   4.  Trees, Search Methods               (500 PTS)
+      Chapter   6.  Priority Queues                     (500 PTS)
+      Chapter  10.  Algorithm Design Techniques         (800 PTS)
+   --   
+
+     
+
+   LaPlace, Probabilty
+
+      Chapter  1. Probability Sets                      (500 PTS)
+      Chapter  2. Discrete Random Variables             (500 PTS)
+   --
+   
+   
+Extra Credit Reading Materials
+    
+C++
+https://github.com/ions29/cpp-reading-material/blob/main/C%2B%2B%20Data%20Structures%20and%20Algorithm%20Analysis.pdf
+   
+LaPlace
+https://github.com/ions29/cpp-reading-material/blob/main/IEORE%20-%20LaPlace.pdf

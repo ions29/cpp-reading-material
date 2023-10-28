@@ -1,0 +1,13 @@
+4 bytes can store numbers between -2147483648 and 2147483647
+
+8 bytes can store numbers between 
+-9223372036854775808 and 9223372036854775807
+
+READ THS PLEASE, IN THIS ORDER.
+
+https://web.stanford.edu/class/cs101/bits-bytes.html
+https://pages.mtu.edu/~soner/Classes/CS-3411/Slides/mmap.pdf
+
+memory mapped I/O
+https://web.stanford.edu/class/ee183/handouts_spr2003/lecture10_spring2003.pdf
+https://inst.eecs.berkeley.edu/~cs61c/sp10/handouts/section14.pdf
