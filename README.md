@@ -2,8 +2,9 @@
 * Professor, Ionis School of Technology and Management
 
 
-# Stock, Options, and Futures Trading Simulator
+# Stock, Options, and Futures Trading Simulators
 * https://www.stocktrak.com/
+* https://www.cloudquant.com/catalog
      
 # FIX 4 Resources
 * https://www.onixs.biz/fix-dictionary/4.2/fields_by_tag.html
