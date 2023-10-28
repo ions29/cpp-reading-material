@@ -1,5 +1,5 @@
 ## Graduate Programs
-* Professor/ Program and Curriculum Design.: [Ionis School of Technology and Management](https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management)
+* Program and Curriculum Design, Professor: [Ionis School of Technology and Management](https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management)
 
 <br>
 
