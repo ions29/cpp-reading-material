@@ -1,3 +1,14 @@
+<p></p>
+
+## Graduate Programs
+* Professor, [IONIS SCHOOL OF TECHNOLOGY AND MANAGEMENT](https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management)
+
+<p></p>
+
+<p></p>
+
+
+
 # Police Athletic League Programs
 
 ## Robolink Drone Engineering
@@ -11,10 +22,6 @@
 * Scratch Programming [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
 
 
-<p></p>
-
-## Graduate Programs
-* Professor, [Ionis School of Technology and Management](https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management)
 
 ## Information Systems Simulators
 * https://kx.com/products/kdb/
