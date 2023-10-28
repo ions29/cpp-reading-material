@@ -14,7 +14,7 @@
 <p></p>
 
 ## Graduate Programs
-* Professor, Ionis School of Technology and Management
+* Professor, [Ionis School of Technology and Management](https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management)
 
 ## Information Systems Simulators
 * https://kx.com/products/kdb/
