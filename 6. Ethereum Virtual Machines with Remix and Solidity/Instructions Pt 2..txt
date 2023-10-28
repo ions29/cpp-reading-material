@@ -1,0 +1,10 @@
+Solidity Project 1 Part 2
+
+Transfer ‘Ether’ from one user to another
+- Using the same concepts from earlier.
+- Students will generate their own “ETH”
+- Students will trade transfer their ETH between each other using their laptops.
+
+
+
+** See Solidy Lesson Plan Page 26
