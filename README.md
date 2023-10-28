@@ -1,7 +1,5 @@
-<p></p>
-
 ## Graduate Programs
-* Professor, [IONIS SCHOOL OF TECHNOLOGY AND MANAGEMENT](https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management)
+* Professor/ Program: [Ionis School of Technology and Management](https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management)
 
 <p></p>
 
@@ -12,14 +10,14 @@
 # Police Athletic League Programs
 
 ## Robolink Drone Engineering
-* RoboLink Drone Engineering @ [The Michael Petrides School](https://codrone.robolink.com/edu/blockly/)
+* RoboLink Drone Engineering Instructor/ Program: [The Michael Petrides School](https://codrone.robolink.com/edu/blockly/)
 
 ## VEX IQ Robot Engineering
-* Block Based Robotics Programming @ [The New World Preperatory Charter School](www.vexrobotics.com)
-* VEX IQ Robotics Engineering @ [Dr. Susan S. MiKinney School](www.vexrobotics.com)
+* Block Based Robotics Programming Instructor/ Program: [The New World Preperatory Charter School](www.vexrobotics.com)
+* VEX IQ Robotics Engineering Instructor/ Program: [Dr. Susan S. MiKinney School](www.vexrobotics.com)
 
 ## Scratch Programming
-* Scratch Programming [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
+* Scratch Programming Instructor/ Program: [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
 
 
 
