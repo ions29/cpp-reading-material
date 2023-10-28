@@ -2,7 +2,7 @@
 * Professor, Ionis School of Technology and Management
 
 
-# Stock, Options, and Futures Trading Simulators
+# Information Systems Simulators
 * https://www.stocktrak.com/
 * https://www.cloudquant.com/catalog
      
