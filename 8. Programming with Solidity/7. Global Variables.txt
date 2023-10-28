@@ -1,0 +1,13 @@
+## GLOBALLY VARIABLES
+  ● block
+    ○ blockhash, coinbase, difficulty, gaslimit, number, timestamp
+  ● gasLeft()
+  ● msg
+    ○ data, sender, sig, value
+  ● tx
+    ○ gasprice, origin
+  ● abi
+    ○ encode, encodePacked, encodeWithSelector, encodeWithSignature
+  ● keccak256
+  ● ecrecover
+  ● require, assert

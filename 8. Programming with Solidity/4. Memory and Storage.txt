@@ -1,0 +1,21 @@
+  MEMORY
+    ● Memory is a byte array.
+    ● Complex types (anything > 32 bytes such as structs, arrays, and strings) must be stored in memory or in storage.
+        ○ string memory name = “STORAGE”;
+    ● Arguments must be copied to memory before calling an `internal` function or when a contract makes an external call (AKA calling a function on another contract).
+    ● Memory is cheap, but the cost of memory grows quadratically.
+
+  STORAGE
+    ● Using storage is very expensive and should be used sparingly.
+    ● Writing to storage is most expensive.
+    ● Reading from storage is cheaper, but still relatively expensive.
+    ● mappings and state variables are always in storage.
+    ● Some gas is refunded when storage is deleted or set to 0 (checkout
+          https://gastoken.io/ for an interesting use of this).
+
+    ●●● Variables < 32 bytes can be packed into 32 byte slots.
+    
+      Event logs
+      ● Event logs are a cheap way of storing data that does not need to be accessed by any contracts.
+      ● Events are stored in transaction receipts, rather than in storage.
+

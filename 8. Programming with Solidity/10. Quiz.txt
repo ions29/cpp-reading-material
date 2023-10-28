@@ -1,0 +1,19 @@
+Here are the basic answers you need to answer.
+
+A.  Name two value types that are known in Solidity Programming?
+
+B.  Name two reference types that are known in Solidity Programming?
+
+C.  What are globally available variables in this scope?
+
+D.  Name two types of `block` variables.
+
+E.  Name one form of visibility in Solidity that is NOT AVAILABLE in C++.
+
+F.  Provide me one example of using the SafeMath with Inheritance.
+
+G.  Provide me one example of using the SafeMath with the builtIn Library.
+
+H.  Take a look at this code contract information, because I will be asking you about it on my return, January 9th.
+
+      https://github.com/0xProject/0x-monorepo/tree/development/packages/contracts

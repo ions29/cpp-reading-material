@@ -1,0 +1,8 @@
+# ABI ENCODING
+  ● Every function has a 4 byte selector that is calculated as the first 4 bytes of the hash of the function signature.
+    ○ In the case of `transfer`, this looks like bytes4(keccak256(“transfer(address,uint256)”);
+  ● The function arguments are then ABI encoded into a single byte array and concatenated with the function selector. 
+    ○ ABI encoding simple types means left padding each argument to 32 bytes.
+  ● This data is then sent to the address of the contract, which is able to decode the arguments and execute the code.
+  ● Fallback function
+

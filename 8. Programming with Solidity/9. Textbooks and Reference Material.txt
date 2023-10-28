@@ -1,0 +1,10 @@
+*** Here are some useful links for this section.
+  
+  0.  https://0xproject.com/
+
+  1.  http://bit.do/cs251solidity
+
+  2.  https://gist.github.com/abandeali1/74d8b73f457add6b1bf7255a90b0adf5
+
+  3.  https://remix.ethereum.org/
+  

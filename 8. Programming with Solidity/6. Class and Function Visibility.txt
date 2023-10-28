@@ -1,0 +1,7 @@
+## CLASS/ FUNCTION VISIBILITY
+  ● external
+  ● internal
+  ● public
+  ● private
+  ● pure
+  ● view

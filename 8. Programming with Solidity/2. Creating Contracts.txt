@@ -1,0 +1,7 @@
+## CALLING/ CREATING CONTRACTS
+  ● Addresses can be cast to contract types.
+    ○ IERC20Token tokenContract = IERC20Token(_token);
+    ○ ERC20Token tokenContract = ERC20Token(_token);
+  ● When calling a function on an external contract, Solidity will automatically handle ABI encoding, copying to memory, and copying return values.
+    ○ tokenContract.transfer(_to, _value);
+

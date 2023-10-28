@@ -1,0 +1,7 @@
+## REFERENCE TYPES
+  ● structs
+  ● arrays
+  ● bytes
+  ● strings
+  ● mappings
+  

@@ -1,0 +1,9 @@
+## IMPORTS AND LIBRARIES
+
+  ● Inheritance
+    ○ contract A is SafeMath {}
+    ○ uint256 a = safeAdd(b, c);
+  
+  ● Libraries
+    ○ using SafeMath for uint256;
+    ○ uint256 a = b.safeAdd(c);
