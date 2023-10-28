@@ -3,6 +3,7 @@
 
 
 # Information Systems Simulators
+* https://kx.com/products/kdb/
 * https://www.stocktrak.com/
 * https://www.cloudquant.com/catalog
      
