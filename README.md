@@ -1,3 +1,18 @@
+# Police Athletic League Programs
+
+## Robolink Drone Engineering
+* RoboLink Drone Engineering @ [The Michael Petrides School](https://codrone.robolink.com/edu/blockly/)
+
+## VEX IQ Robot Engineering
+* Block Based Robotics Programming @ [The New World Preperatory Charter School](www.vexrobotics.com)
+* VEX IQ Robotics Engineering @ [Dr. Susan S. MiKinney School](www.vexrobotics.com)
+
+## Scratch Programming
+* Scratch Programming [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
+
+
+<p></p>
+
 ## Graduate Programs
 * Professor, Ionis School of Technology and Management
 
@@ -13,16 +28,5 @@
 
 
   
-# Police Athletic League Programs
-
-## Robolink Drone Engineering
-* RoboLink Drone Engineering @ [The Michael Petrides School](https://codrone.robolink.com/edu/blockly/)
-
-## VEX IQ Robot Engineering
-* Block Based Robotics Programming @ [The New World Preperatory Charter School](www.vexrobotics.com)
-* VEX IQ Robotics Engineering @ [Dr. Susan S. MiKinney School](www.vexrobotics.com)
-
-## Scratch Programming
-* Scratch Programming [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
 
 
