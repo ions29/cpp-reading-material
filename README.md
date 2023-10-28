@@ -1,5 +1,8 @@
 # Teaching Experience
+## Graduate Programs
 * Professor, Ionis School of Technology and Management
+
+## After School Programs
 
 
 # Information Systems Simulators
