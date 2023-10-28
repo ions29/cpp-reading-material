@@ -10,7 +10,7 @@
 
 <br>
 
-# Police Athletic League Programs ![PAL](https://images.squarespace-cdn.com/content/v1/549af14be4b038053fe035c4/1539955241053-Y44WLCS7VF1YZWKMHJNA/PAL+Logo.jpg?format=2500w)
+# ![PAL](https://images.squarespace-cdn.com/content/v1/549af14be4b038053fe035c4/1539955241053-Y44WLCS7VF1YZWKMHJNA/PAL+Logo.jpg?format=2500w)
 
 ## Robolink Drone Engineering
 * RoboLink Drone Engineering Instructor/ Program: [The Michael Petrides School](https://codrone.robolink.com/edu/blockly/)
