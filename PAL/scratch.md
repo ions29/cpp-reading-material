@@ -1,4 +1,4 @@
-## Lesson 1
+## Introductory Lesson
 Using "block" code methods with Scratch.
 
 https://scratch.mit.edu/projects/editor/?tutorial=getStarted
