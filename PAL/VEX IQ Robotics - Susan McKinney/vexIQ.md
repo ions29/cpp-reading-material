@@ -11,6 +11,20 @@ If you are having issues installing this on your laptop, we can use the online I
 You can follow the program in either C++ or Python - just let me know what version you choose!
 
 
+#### 1st Gen. Drivetrain
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6add9d1d-3911-4878-a81e-dffe01cf4c27)
+
+
+#### 2nd Gen. Drivetrain
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/cf011241-fc4a-4ac3-8bfb-bfb2071540d5)
+
+
+#### Gyro Sensor Configuration
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/2a01919b-bb42-4692-9425-9de71130ff2d)
+
 
 
 ## Lesson: Console Screen [ Done in C++ ]
@@ -91,7 +105,7 @@ when_started1()
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/18d93fbc-cdaf-4663-9d8a-92403e9a03da)
 
 
-## Lesson: Drivetrain Configuration
+## Lesson: Brain Port, Drivetrain Configuration
 
 Left Motor Port Configuration
 
@@ -102,6 +116,18 @@ Right Motor Port Configuration
 
 Gyro Configuration (if you have a drone that uses a gyro)
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/036e08a3-a896-4083-a932-e1dee68f5ed1)
+
+
+## Lesson: Drive Train
+
+### Move the Drivetrain forever.
+
+
+
+
+
+
+
 
 
 
