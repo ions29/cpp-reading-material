@@ -88,6 +88,22 @@ when_started1()
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/18d93fbc-cdaf-4663-9d8a-92403e9a03da)
 
 
+## Lesson 3: Drivetrain Configuration
+
+Left Motor Port Configuration
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6af83706-18ac-4989-a030-5155755fb08d)
+
+Right Motor Port Configuration
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/108f6eee-769d-478e-b243-4c696a077839)
+
+Gyro Configuration (if you have a drone that uses a gyro)
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/036e08a3-a896-4083-a932-e1dee68f5ed1)
+
+
+
+
+
 
 
 
