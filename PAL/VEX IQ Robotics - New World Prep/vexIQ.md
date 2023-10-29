@@ -7,7 +7,10 @@
 If you are having issues installing this on your laptop, we can use the online Interactive Development Environment (IDE) instead.
 * https://codeiq.vex.com/
 
-## Lesson 2: Console Screen
+
+You can follow the program in either C++ or Python - just let me know what version you choose!
+
+## Lesson 2: Console Screen [ C++ ]
 
 <pre>
 int Brain_precision = 0, Console_precision = 0;
@@ -43,6 +46,50 @@ int main() {
 </pre>
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/3f865396-05dc-4754-9b97-5f4c44ae2adc)
+
+
+## Lesson 2: Console Screen [Python]
+
+<pre> 
+vexcode_brain_precision = 0
+vexcode_console_precision = 0
+myVariable = 0
+
+def when_started1():
+    global myVariable, vexcode_brain_precision, vexcode_console_precision
+    brain.play_sound(SoundType.WRENCH)
+
+def onevent_buttonRight_released_0():
+    global myVariable, vexcode_brain_precision, vexcode_console_precision
+    brain.play_sound(SoundType.TADA)
+    brain.play_note(3, 0, 500)
+    brain.screen.print("YourName")
+    brain.screen.next_row()
+
+def onevent_buttonLeft_pressed_0():
+    global myVariable, vexcode_brain_precision, vexcode_console_precision
+    brain.screen.clear_screen()
+    brain.screen.draw_line(0, 0, 10, 10)
+
+# Calibrate the Drivetrain Gyro
+calibrate_drivetrain()
+
+# system event handlers
+brain.buttonRight.released(onevent_buttonRight_released_0)
+brain.buttonLeft.pressed(onevent_buttonLeft_pressed_0)
+# add 15ms delay to make sure events are registered correctly.
+wait(15, MSEC)
+
+when_started1()
+
+
+</pre>
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/18d93fbc-cdaf-4663-9d8a-92403e9a03da)
+
+
+
+
 
 
 
