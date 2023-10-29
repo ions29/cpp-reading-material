@@ -1,4 +1,4 @@
-## Lesson 1: Install VEXcode IQ
+## Lesson: Install VEXcode IQ
 * https://www.vexrobotics.com/vexcode/install/iq
   
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/24811db4-2bf7-43a8-bd1d-f620f6cb0581)
@@ -10,7 +10,24 @@ If you are having issues installing this on your laptop, we can use the online I
 
 You can follow the program in either C++ or Python - just let me know what version you choose!
 
-## Lesson 2: Console Screen [ Done in C++ ]
+
+#### 1st Gen. Drivetrain
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6add9d1d-3911-4878-a81e-dffe01cf4c27)
+
+
+#### 2nd Gen. Drivetrain
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/cf011241-fc4a-4ac3-8bfb-bfb2071540d5)
+
+
+#### Gyro Sensor Configuration
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/2a01919b-bb42-4692-9425-9de71130ff2d)
+
+
+
+## Lesson: Console Screen [ Done in C++ ]
 
 <pre>
 int Brain_precision = 0, Console_precision = 0;
@@ -48,7 +65,7 @@ int main() {
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/3f865396-05dc-4754-9b97-5f4c44ae2adc)
 
 
-## Lesson 2: Console Screen [Done in Python]
+## Lesson: Console Screen [Done in Python]
 
 <pre> 
 vexcode_brain_precision = 0
@@ -88,7 +105,7 @@ when_started1()
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/18d93fbc-cdaf-4663-9d8a-92403e9a03da)
 
 
-## Lesson 3: Drivetrain Configuration
+## Lesson: Brain Port, Drivetrain Configuration
 
 Left Motor Port Configuration
 
@@ -101,11 +118,22 @@ Gyro Configuration (if you have a drone that uses a gyro)
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/036e08a3-a896-4083-a932-e1dee68f5ed1)
 
 
+## Lesson: Drive Train
+
+### Move the Drivetrain forever.
 
 
 
 
-## Lesson 6: Coverting the Project to Text
+
+
+
+
+
+
+
+
+## Lesson: Coverting the Project to Text
 
 <pre>
 // "when started" hat block
