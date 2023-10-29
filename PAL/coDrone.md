@@ -1,4 +1,4 @@
-## LESSON 1
+## Intro Lesson
 
 Using the Blockly Interface
 * https://codrone.robolink.com/edu/blockly/
