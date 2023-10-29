@@ -11,6 +11,12 @@
 
 <br>
 
+## FIX Programming Resources
+* [FIX Tags](https://www.onixs.biz/fix-dictionary/4.2/fields_by_tag.html)
+* [Quick FIX](https://quickfixengine.org/c/documentation/)
+
+<br>
+
 # ![PAL](https://images.squarespace-cdn.com/content/v1/549af14be4b038053fe035c4/1539955241053-Y44WLCS7VF1YZWKMHJNA/PAL+Logo.jpg?format=2500w)
 
 ## Robolink Drone Engineering
@@ -29,7 +35,3 @@
 
 <br>
  
-
-## FIX Programming Resources
-* [FIX Tags](https://www.onixs.biz/fix-dictionary/4.2/fields_by_tag.html)
-* [Quick FIX](https://quickfixengine.org/c/documentation/)
