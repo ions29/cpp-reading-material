@@ -23,3 +23,9 @@
 
 2023/10/27
 Objective: Make sure all students work with their parents to set up a scratch account so that they can save their work next week.
+
+Introductory Lesson
+Using "block" code methods with Scratch.
+
+https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
