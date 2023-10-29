@@ -10,6 +10,7 @@ If you are having issues installing this on your laptop, we can use the online I
 
 You can follow the program in either C++ or Python - just let me know what version you choose!
 
+## OVERVIEW OF DRIVETRAIN VERSION CONTROLS
 
 #### 1st Gen. Drivetrain
 
@@ -24,6 +25,13 @@ You can follow the program in either C++ or Python - just let me know what versi
 #### Gyro Sensor Configuration
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/2a01919b-bb42-4692-9425-9de71130ff2d)
+
+
+
+*** 
+
+
+
 
 
 
@@ -63,6 +71,13 @@ int main() {
 </pre>
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/3f865396-05dc-4754-9b97-5f4c44ae2adc)
+
+
+
+*** 
+
+
+
 
 
 ## Lesson: Console Screen [Done in Python]
@@ -105,6 +120,14 @@ when_started1()
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/18d93fbc-cdaf-4663-9d8a-92403e9a03da)
 
 
+
+*** 
+
+
+
+
+
+
 ## Lesson: Brain Port, Drivetrain Configuration
 
 Left Motor Port Configuration
@@ -120,11 +143,65 @@ Gyro Configuration (if you have a drone that uses a gyro)
 
 ## Lesson: Drive Train
 
-### Move the Drivetrain forever.
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/67b729a5-a353-426b-acbf-b4a4534bed19)
+
+
+### Move the Drivetrain forever [ C++]
+
+<pre>
+float myVariable;
+
+// "when buttonLeft pressed" hat block
+void onevent_buttonLeft_pressed_0() {
+  while (true) {
+    Drivetrain.turnToHeading(45.0, degrees, true);
+    Drivetrain.turnToHeading(90.0, degrees, true);
+    Drivetrain.turnToHeading(270.0, degrees, true);
+    Drivetrain.turnToHeading(180.0, degrees, true);
+  wait(20, msec);
+  }
+}
+
+
+int main() {
+  // Calibrate the Drivetrain Gyro
+  calibrateDrivetrain();
+
+  // register event handlers
+  Brain.buttonLeft.pressed(onevent_buttonLeft_pressed_0);
+
+  wait(15, msec);
+}
+
+  
+</pre>
+
+
+<pre>
+myVariable = 0
+
+def onevent_buttonLeft_pressed_0():
+    global myVariable
+    while True:
+        drivetrain.turn_to_heading(45, DEGREES)
+        drivetrain.turn_to_heading(90, DEGREES)
+        drivetrain.turn_to_heading(270, DEGREES)
+        drivetrain.turn_to_heading(180, DEGREES)
+        wait(20, MSEC)
+
+# Calibrate the Drivetrain Gyro
+calibrate_drivetrain()
+
+# system event handlers
+brain.buttonLeft.pressed(onevent_buttonLeft_pressed_0)
+# add 15ms delay to make sure events are registered correctly.
+wait(15, MSEC)  
+</pre>
 
 
 
-
+*** 
 
 
 
