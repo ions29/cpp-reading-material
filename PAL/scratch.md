@@ -9,3 +9,8 @@ https://scratch.mit.edu/projects/editor/?tutorial=getStarted
 ## Adding More Characters to your Cartoon
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/0c6aa226-38ae-471d-b50a-ef29a3d4ae51)
+
+
+## Add a soundtrack to yoru dance party
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/fa798c5c-2b8f-444c-ba30-c9492d005180)
