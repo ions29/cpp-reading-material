@@ -10,7 +10,7 @@ If you are having issues installing this on your laptop, we can use the online I
 
 You can follow the program in either C++ or Python - just let me know what version you choose!
 
-## Lesson 2: Console Screen [ C++ ]
+## Lesson 2: Console Screen [ Done in C++ ]
 
 <pre>
 int Brain_precision = 0, Console_precision = 0;
@@ -48,7 +48,7 @@ int main() {
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/3f865396-05dc-4754-9b97-5f4c44ae2adc)
 
 
-## Lesson 2: Console Screen [Python]
+## Lesson 2: Console Screen [Done in Python]
 
 <pre> 
 vexcode_brain_precision = 0
@@ -87,6 +87,18 @@ when_started1()
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/18d93fbc-cdaf-4663-9d8a-92403e9a03da)
 
+
+## Lesson 3: Drivetrain Configuration
+
+Left Motor Port Configuration
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6af83706-18ac-4989-a030-5155755fb08d)
+
+Right Motor Port Configuration
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/108f6eee-769d-478e-b243-4c696a077839)
+
+Gyro Configuration (if you have a drone that uses a gyro)
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/036e08a3-a896-4083-a932-e1dee68f5ed1)
 
 
 
