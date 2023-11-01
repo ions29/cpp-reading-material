@@ -45,6 +45,9 @@ she's a pioneer aviator who lived from 1892 to 1926.
 
 
 ### You've never lived till you've flown
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/285f9ae8-4aab-481b-9a5f-ce9d9281f8e3)
+
 <br>
 - Born in Texas almost 12 years before the first airplane ever took off.<br>
 - Women were flying France at that time, and she started applying to schools.<br>
