@@ -28,5 +28,23 @@ In AVIATION we have a special language to describe these directions, which we’
 
 AVIATION: Refers to flying, using a mechanical aircraft like an airplane. <br>
 It also includes the activities and industries related to flight, such as airlines, air traffic control and airplane manufacturers.<br><br>
-Another name for a PILOT is an AVIATOR, which is a person who operates an aircraft. 
+Another name for a PILOT is an AVIATOR, which is a person who operates an aircraft. <br>
 <br>**That means that everyone who flies a drone is an Aviator too!**
+
+THROTTLE, YAW, PITCH, ROLL!<br>
+<br>
+Flying Forward and Backward is called **PITCH**.
+<br>
+Flying side-to-side is called **ROLL**. It’s called this because an airplane, like a fighter jet, actually rolls…. 
+<br>
+A quadcopter just dips a little to fly in a sideways direction. 
+<br>
+And a drone flying up and down is called **THROTTLE**.
+
+A drone turning Left or turning Right is called **YAW**. 
+<br>Imagine your drone was hanging from a string connected to the center of your drone. <br>
+If your drone turns around without swinging the string, that’s called “Rotating on a Fixed-Vertical Axis”<br>
+
+That’s a fancy way of saying YAW.
+
+When you speak to fellow students or pilots, or when you give your partner directions, you should begin using these terms
