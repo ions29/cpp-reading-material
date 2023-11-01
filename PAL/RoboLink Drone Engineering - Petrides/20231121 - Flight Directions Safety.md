@@ -23,12 +23,14 @@ we have to think of it in three dimensions or as we say 3d<br>
 your pointer finger is x<br>
 - forward and back<br>
 
-your middle finger is y <br>
+your middle finger is y<br>
 - side to side<br>
-and your thumb is z <br>
+
+your thumb is z <br>
 - up and down<br>
+
 z is the third dimension<br>
-- up and down<br>
+
 
 
 In aviation we have a special language to describe these directions<br>
