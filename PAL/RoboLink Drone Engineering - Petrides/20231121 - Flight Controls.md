@@ -88,7 +88,7 @@ she's a pioneer aviator who lived from 1892 to 1926.
 I will always complete my pre-flight checklist.<br>
 I will never fly my drone over people tha are not on my team.<br>
 I will never fly over moving vehicles.<br>
-I will enver fly above 400 feet.<br>
+I will never fly above 400 feet.<br>
 I will never fly near an airport.<br>
 I will always be aware of my weather and surroundings.<br>
 I will never fly at night.<br>
