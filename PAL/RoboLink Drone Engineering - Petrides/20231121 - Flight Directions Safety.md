@@ -50,6 +50,8 @@ z is the third dimension<br>
 
 **Turning Left or Turning Right**
 
+For drones, this means you are on a fixed axis "like a yoyo hanging on a string" and you change your direction that way.
+
 
 
 
