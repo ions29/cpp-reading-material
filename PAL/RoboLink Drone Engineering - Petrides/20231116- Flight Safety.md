@@ -2,7 +2,11 @@
 
 **FAA.:  Federal Aviation Administration**<br>
 
-Regulate the airspace, airports, and make sure the pilots are trained (even dorne pilots)<br>
+Regulate the airspace, airports, and make sure the pilots are trained (even drone pilots)<br><br>
+The drone industry is progressing more rapidly than laws can keep up. Check all local municipal and State laws and regulations concerning drones before flying, because they can vary widely. Failure to observe these rules can result in fines, penalties and additional ramifications.<br><br>
+
+Drone laws and regulations will continue to change dramatically in the next few years, so consider this course as just the beginning of your drone education. This is an exciting time for drones, and you will see enormous innovation as the world learns new ways to use drones to do things better, faster, cheaper and safer than ever before.<br>
+
 <br>
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/a2efb7b1-6e93-4307-b495-ccda7a2d3c0f)
 <br>
