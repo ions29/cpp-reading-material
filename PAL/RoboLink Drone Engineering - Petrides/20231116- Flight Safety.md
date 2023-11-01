@@ -8,7 +8,9 @@ The drone industry is progressing more rapidly than laws can keep up. Check all 
 Drone laws and regulations will continue to change dramatically in the next few years, so consider this course as just the beginning of your drone education. This is an exciting time for drones, and you will see enormous innovation as the world learns new ways to use drones to do things better, faster, cheaper and safer than ever before.<br>
 
 <br>
+
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/a2efb7b1-6e93-4307-b495-ccda7a2d3c0f)
+
 <br>
 1. Never fly above 400 feet
 
