@@ -96,5 +96,10 @@ I will always keep my drone in sight.<br>
 I will always call out loudly before takeoff and landing.<br>
 I will always keep safety first.<br>
 
+## SAFEETY PRINCIPLES
+Drones can be dangerous.  They have extremely fast-moving propellers that can hurt you, or someone else. Animals and other living things can be hurt by drones too. A drone crash can cause damage, not only to people and animals, but to property, creating unsafe situations or conditions. Let’s face it. Flying drones is a BIG responsibility. In fact, it may be the biggest responsibility you’ve ever had in your entire life. We congratulate you for taking your role as a drone pilot seriously, by taking the first step towards educating yourself. <br>
 
+Even when you follow generally accepted safety principles—crashes are inevitable. It’s not a matter of if, but when. Every pilot crashes. That’s why we recommend learning to fly with a smaller drone, like a DJI Tello, before moving up to a bigger drone. In addition, we require all students (of any age) to wear protective eye gear or safety glasses. Never fly indoors without propeller guards. Even better, it’s a good idea to purchase an additional safety cage, if it is available for your drone. Additionally, we recommend that children, under the age of 18 should only fly with adult supervision. <br>
+
+More and more, it seems, you can find stories about drones being flown in ways that show complete ignorance, or disregard for the FAA Rules. All drone pilots in the US, even hobbyists, have a responsibility to follow these rules. Flying drones is a privilege and if we don’t follow the rules, that privilege will be taken away from us. Safety is a choice. We encourage you to Always Keep Safety First. <br>
 
