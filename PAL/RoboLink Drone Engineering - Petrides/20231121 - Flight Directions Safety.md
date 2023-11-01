@@ -32,6 +32,20 @@ your thumb is z <br>
 z is the third dimension<br>
 
 
+### PITCH
+
+**Flying forward and backward.**
+
+### ROLL
+
+**Flying side to side.**
+
+## THROTTLE
+
+**Up and down.**
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/c0d873f3-3148-47fc-b1b6-2802161f7064)
+
 
 In aviation we have a special language to describe these directions<br>
 
