@@ -2,6 +2,8 @@
 we call these names navigational direction terminology to help us understand
 what we are describing let's first talk about the dimensions of the world in which we live a picture
 
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/c45cc7c9-4697-4f13-a76b-58b1369f27db)
+
 drawing tablet or even a tv screen has two dimensions<br><br>
 
 if we plotted these two dimensions on a graph or a chart we'd call them the x-axis and the y-axis the x and y axis describes a flat world<br>
