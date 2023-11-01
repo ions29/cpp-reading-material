@@ -1,8 +1,11 @@
 # Flight Safety (FAA)
 
 **FAA.:  Federal Aviation Administration**<br>
-Regulate the airspace, airports, and make sure the pilots are trained (even dorne pilots)<br>
 
+Regulate the airspace, airports, and make sure the pilots are trained (even dorne pilots)<br>
+<br>
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/a2efb7b1-6e93-4307-b495-ccda7a2d3c0f)
+<br>
 1. Never fly above 400 feet
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/49418448-18c1-4633-9317-a9ffacd1997f)
