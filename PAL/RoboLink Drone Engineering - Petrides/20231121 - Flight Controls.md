@@ -67,13 +67,15 @@ aviation refers to flying using aircraft like an airplane it also includes the a
 the first african-american male or female to ever get an international pilot's license
 she's a pioneer aviator who lived from 1892 to 1926.
 
-## Bessie Coleman
+# Bessie Coleman
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/64934835-abb5-4d9f-bf54-18b295c558d1)
 
 Bessie Coleman was an early American civil aviator. She was the first African-American woman and first Native American to hold a pilot license. <br>
-She earned her license from the Fédération Aéronautique Internationale on June 15, 1921, and was the first African-American to earn an international pilot's license. 
+She earned her license from the Fédération Aéronautique Internationale on June 15, 1921, and was the first African-American to earn an international pilot's license. <br>
 
 
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/94cff92f-f98d-47e3-ba60-a3ac9a7e414e)
 
 
 ### You've never lived till you've flown
