@@ -19,3 +19,4 @@ https://vimeo.com/554875091/60864c7059
 https://vimeo.com/650490210/72d3df9934
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/52da3b38-5441-41a6-851c-80793ce00c56)
+
