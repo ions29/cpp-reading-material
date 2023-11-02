@@ -94,6 +94,13 @@ Take a Picture or Record a Video<br>
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/cf5eac9f-c9d4-4803-bc86-97c10c09f019)
 
 
+The most important part of the controller is known as the sticks! This is what you’ve been waiting for, and, if you have a drone, you can use this to fly your first mission today. <br>
+(If you don’t have a drone, you can still download the TELLO App and follow along.) <br>
+Refer back to the image above with the two big circles on the lower left and lower right of the controller screen found in the TELLO App. <br>
+If your drone has its own Remote Controller, refer to the two control sticks, or 360-degree levers, now.  <br>
+Every drone remote controller or transmitter, has some form of these same controls. <br>
+
+If you have a drone, don’t turn it on yet. First you need to learn how to fly. <br>
 
 
 
