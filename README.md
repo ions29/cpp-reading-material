@@ -20,24 +20,24 @@
 # ![PAL](https://images.squarespace-cdn.com/content/v1/549af14be4b038053fe035c4/1539955241053-Y44WLCS7VF1YZWKMHJNA/PAL+Logo.jpg?format=2500w)
 
 ## Robolink Drone Engineering
-* RoboLink Drone Engineering Instructor/ Program at [The Michael Petrides School](https://codrone.robolink.com/edu/blockly/)
+* RoboLink Drone Engineering Instructor/ Program at The Michael Petrides School
 * [Course Repository](https://github.com/ions29/cpp-reading-material/tree/main/PAL/RoboLink%20Drone%20Engineering%20-%20Petrides)
 
 <br>
 
 ## VEX IQ Robot Engineering
-* Block Based Robotics Programming Instructor/ Program at [The New World Preparatory Charter School](https://codeiq.vex.com/)
+* Block Based Robotics Programming Instructor/ Program at The New World Preparatory Charter School
 * [Course Repository](https://github.com/ions29/cpp-reading-material/tree/main/PAL/VEX%20IQ%20Robotics%20-%20New%20World%20Prep)
 
 <br>
 
-* VEX IQ Robotics Engineering Instructor/ Program at [Dr. Susan S. MiKinney School of Arts](https://codeiq.vex.com/)
+* VEX IQ Robotics Engineering Instructor/ Program at The Dr. Susan S. MiKinney School of Arts.
 * [Course Repository](https://github.com/ions29/cpp-reading-material/tree/main/PAL/VEX%20IQ%20Robotics%20-%20Susan%20McKinney)
 
 <br>
 
 ## Scratch Programming
-* Scratch Programming Instructor/ Program at [P.S. 176, Cambria Heights](https://scratch.mit.edu/)
+* Scratch Programming Instructor/ Program at P.S. 176 in Cambria Heights.
 * [Course Repository](https://github.com/ions29/cpp-reading-material/tree/main/PAL/Scratch%20Programming%20-%20PS176Q)
 
 <br>
