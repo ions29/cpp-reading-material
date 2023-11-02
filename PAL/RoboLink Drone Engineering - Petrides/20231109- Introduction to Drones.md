@@ -46,7 +46,22 @@ Drone Light Shows & Swarm Technology
 
  ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/8fd6bd3b-a0b5-4fcb-b529-6ced4ea41f56)
 
- 
-Complete - Drone Eye Challenge
+<br>
+
+## 1.	THE ROLE OF THE TEAM
+https://vimeo.com/554731550/04b619e9ea
+
+## 2. Role of the Team Field Demo Video
+https://vimeo.com/603496689/2dcc8a1068
+
+## 3. Drone Cadet FAA Rules Public Service Announcement
+https://www.youtube.com/watch?v=HOS8-iC23A8
+
+## 4. Prepare to Launch Video
+https://vimeo.com/554875091/60864c7059
+
+## 5. Function Check Mission Video
+https://vimeo.com/650490210/72d3df9934
+
 
 
