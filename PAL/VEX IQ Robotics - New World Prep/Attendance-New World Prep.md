@@ -19,7 +19,12 @@
 13. Ishaaq M.B.
 14. Yallen M.
 15. Rashad T.
-16. Christian W.
+16. Christina W.
 17. Briana H.
 18. Reubn
 19. Jaoylen C.
+20. Zee
+21. Wesley
+22. Shekina
+23. Angelica
+
