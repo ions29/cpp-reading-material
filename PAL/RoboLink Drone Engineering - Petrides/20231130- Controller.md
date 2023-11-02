@@ -163,3 +163,19 @@ Remote Controller: take hold of the right stick between your **RIGHT THUMB** IND
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/4c38739e-3526-4863-a294-a8b14e44472f)
 
 
+
+# DRONE CADETS MOBILE APP
+
+Keyboard Commands:<br><br>
+
+**W** = Throttle Up<br>
+
+**S** = Throttle Down<br>
+
+**A**  = Yaw Left<br>
+
+**D** = Yaw Right<br>
+
+
+Arrow Keys = Pitch Forward, Pitch Backward, Roll Right, Roll Left
+
