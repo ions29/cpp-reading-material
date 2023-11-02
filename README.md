@@ -42,5 +42,9 @@
 
 <br>
 
- ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6c8a9cd9-44a4-4079-a00d-59c4403e989b)
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/15855014-4936-422f-a2f6-e275dc2251f6)
+
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6c8a9cd9-44a4-4079-a00d-59c4403e989b)
 
