@@ -149,4 +149,17 @@ Slowly and gently slide your thumb left to the 9 o’clock position to ROLL Left
 Remote Controller: take hold of the right stick between your **RIGHT THUMB** INDEX or POINTER FINGER or just use your RIGHT THUMB and slowly push it towards the left (9 o’clock position) to ROLL Left, and the right (3 o’clock position) to ROLL Right.
 
 
+# Controller Functions
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/8ada9969-580a-44ef-9188-5a10a2aad9bf)
+
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6175c4a3-5a85-4b1f-b2eb-c94092d1a47e)
+
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/f44a235e-032c-4c6c-9262-05c78e73ff6d)
+
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/4c38739e-3526-4863-a294-a8b14e44472f)
+
 
