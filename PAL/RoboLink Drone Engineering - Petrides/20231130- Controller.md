@@ -102,6 +102,8 @@ Every drone remote controller or transmitter, has some form of these same contro
 
 If you have a drone, don’t turn it on yet. First you need to learn how to fly. <br>
 
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/e0b87a87-b3c7-4e61-ab22-49cf7c8ac8ad)
+
 
 
 
