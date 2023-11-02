@@ -106,6 +106,47 @@ If you have a drone, don’t turn it on yet. First you need to learn how to fly.
 
 
 
+# LEFT STICK
+
+**THROTTLE:** means to go up or down, used to change height or altitude. <br><br>
+Altitude is the vertical distance above a surface, which is usually measured as the distance above the ground or sea level.<br>
+
+Virtual Controller: use your LEFT THUMB. <br><br>
+Put your thumb on the small circle, or dot, in the middle of the larger circle. <br>
+Slowly and gently slide your thumb up to the 12 o’clock position to THROTTLE Up, and down to the 6 o’clock position to THROTTLE Down. <br>
+
+Try to remain inside the larger circle when you slide your finger.<br><br>
+Remote Controller: take hold of the left stick between your LEFT THUMB & INDEX or POINTER FINGER , or just use your RIGHT THUMB and slowly push it towards the 12 o’clock position to THROTTLE Up and the 6 o’clock position to THROTTLE Down.
+ 
+
+**YAW:** Means to turn left or right. The drone is said to YAW when it rotates on a fixed vertical axis.<br><br>
+
+For any type of controller: do the same thing only move the LEFT STICK to the left or right.<br>
+To turn left, or YAW Left; move the stick or slide the circle to the left (9 o’clock position).<br>
+To turn right, or YAW Right, move the stick or slide the circle to the right (3 o’clock position).<br>
+
+
+
+# RIGHT STICK
+
+**PITCH:** Means to fly forward or backward.<br><br>
+
+Virtual Controller: use your RIGHT THUMB. <br>
+Put your thumb on the small circle, or dot, in the middle of the larger circle. <br>
+Slowly and gently slide your thumb up to the 12 o’clock position to PITCH Forward, and down to the 6 o’clock position to PITCH Backward. <br>
+Try to remain inside the larger circle when you slide your finger. <br>
+(If your drone were to fail to respond, it could be because your finger went too far outside the larger circle.)<br><br>
+
+Remote Controller: take hold of the right stick between your RIGHT THUMB & INDEX or POINTER FINGER, or just use your RIGHT THUMB and slowly push it towards the top (12 o’clock position) to PITCH Forward, and the bottom (6 o’clock position) to PITCH Backward.
+ 
+
+**ROLL:** Means to fly to the right or to the left.<br><br>
+
+Virtual Controller: use your RIGHT THUMB. <br>
+Put your thumb on the small circle, or dot, in the middle of the larger circle. <br><br>
+Slowly and gently slide your thumb left to the 9 o’clock position to ROLL Left, and right to the 3 o’clock position to ROLL Right Again, try to remain inside the larger circle when you slide your finger. If your drone fails to respond, check to see if your finger went too far outside the larger circle by mistake.<br><br>
+
+Remote Controller: take hold of the right stick between your **RIGHT THUMB** INDEX or POINTER FINGER or just use your RIGHT THUMB and slowly push it towards the left (9 o’clock position) to ROLL Left, and the right (3 o’clock position) to ROLL Right.
 
 
 
