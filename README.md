@@ -41,4 +41,6 @@
 * [Course Repository](https://github.com/ions29/cpp-reading-material/tree/main/PAL/Scratch%20Programming%20-%20PS176Q)
 
 <br>
- 
+
+ ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6c8a9cd9-44a4-4079-a00d-59c4403e989b)
+
