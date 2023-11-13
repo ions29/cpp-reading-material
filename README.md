@@ -43,14 +43,11 @@
 <br>
 <br>
 
-
-# USACO: Syosset Enrichment and Competition Programs
-
-
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/dcd7e40d-08a9-4edc-9b19-58f5209f91c1)
 
 
-## C++ Programming: Beginner Course Outline
+## C++ Programming: Beginner Course, Syosset Enrichment Program
+
 * C++ Beginner / Program at the Syosset Enrichment School
 * [Course Repository](https://github.com/ions29/cpp-reading-material/blob/main/PAL/C%2B%2B%20Beginner/CourseOutline.md)
 
