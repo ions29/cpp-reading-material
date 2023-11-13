@@ -45,8 +45,8 @@
 <br>17	USACO Competition Prep. / USACO Bronze	04/16/2023
 <br> * Autonomous Vehicle Programming with Obstacles	
 <br>18	USACO Competition Prep. / USACO Bronze	04/30/2023
-<br> * Challenging Robots abnd Code to Specifications.	
+<br> * Challenging Robots and Code to Specifications.	
 <br>19	USACO Competition Prep. / USACO Bronze	05/07/2023
-<br> * Challenging Robots abnd Code to Specifications.	
+<br> * Challenging Robots and Code to Specifications.	
 <br>20	USACO Competition Prep. / USACO Bronze	05/14/2023
-<br> * Challenging Robots abnd Code to Specifications.	
+<br> * Challenging Robots and Code to Specifications.	
