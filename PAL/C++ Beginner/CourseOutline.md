@@ -1,4 +1,8 @@
-** DRAFT
+** DRAFT 
+
+[101.docx](https://github.com/ions29/cpp-reading-material/files/13339421/101.docx)
+
+
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/9ddcca19-9720-4500-86b8-2576aa9eb43f)
 
