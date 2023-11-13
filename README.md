@@ -41,6 +41,10 @@
 * [Course Repository](https://github.com/ions29/cpp-reading-material/tree/main/PAL/Scratch%20Programming%20-%20PS176Q)
 
 <br>
+<br>
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/bc259dbd-5a0c-4781-bb0d-3b5e3f4e05f4)
+
 
 # USACO: Syosset Enrichment and Competition Programs
 
@@ -48,7 +52,8 @@
 
 
 ## C++ Programming: Beginner Course Outline
-
+* C++ Beginner / Program at the Syosset Enrichment School
+* [Course Repository](https://github.com/ions29/cpp-reading-material/blob/main/PAL/C%2B%2B%20Beginner/CourseOutline.md)
 
 
 
