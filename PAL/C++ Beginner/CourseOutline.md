@@ -5,6 +5,43 @@
 
 ## C++ 	L-101: Lecture Schedule
 
+
+| Class      | Topic | Date |
+| :---        |    :--------| :--------|
+| 1 | Introduction to the Class and IDE 	| 12/12/2023 |
+| | CloudBased Interactive Development Environment |
+| 2 | Basic C++ Practical Uses | 12/12/2023 |
+| | Architecture, Data Types, Variables, Operators |
+| 3 | Basic C++ Functions | 01/02/2023|
+| | Parameters, Namespaces, Classes |
+| 4 |  Data Types | 01/09/2023 |
+| | char, int, float, double, bool |
+| 5 | Basic Data Structures | 01/16/2023 |
+| | Introduction: Arrays, HashSet, HashMap |
+| 6 | Review Data Structures | 01/23/2023 |
+| |  Sorting Arrays {char[], int[], float[], double[], bool[]} |
+| 7 |	Struct, Classes, Functions | 01/30/2023 |
+| | Recursion |
+| 8 | Basic Storage Types and Access | 02/06/2023 |
+| | Arrays, HashSet, HashMap |
+| 9 | Introduction to VEX-IQ | 02/13/2023 |
+| | Assembly and Parts |
+| 10 | VEX-IQ | 02/27/2023 |
+| | Robot Brain |
+| 11 | VEX-IQ | 03/05/2023 |
+| | Drivetrain |
+| 12 | VEX-IQ  | 03/12/2023 |
+| | Drivetrain and Motors |
+| 13 | VEX-IQ | 03/19/2023 |
+| |  Manual Vehicle Controls |
+| 14 | VEX-IQ | 03/26/2023 |
+| 15 | Introduction to the Class and IDE | 12/12/2023 |
+| 16 | Introduction to the Class and IDE | 12/12/2023 |
+| 17 | Introduction to the Class and IDE | 12/12/2023 |
+| 18 | Introduction to the Class and IDE | 12/12/2023 |
+| 19 | Introduction to the Class and IDE | 12/12/2023 |
+| 20 | Introduction to the Class and IDE | 12/12/2023 |
+
 <br> **1	Introduction to the Class and IDE	 &nbsp; &nbsp; &nbsp; &nbsp; 12/12/2023**
 <br> * Local and CloudBased Interactive Development Environment	<br>
 <br>**2	Basic C++ Uses &nbsp; &nbsp; &nbsp; &nbsp; 12/19/2023**
@@ -21,7 +58,7 @@
 <br> * Introduction: Arrays, HashSet, HashMap	<br>
 <br>**6	Review Data Structures	01/23/2023**
 <br> * Sorting Arrays {char, int, float, double, bool} <br>	
-<br>**7	Struct, Class, Functions	01/30/2023**
+<br>**7	Struct, Classes, Functions	01/30/2023**
 <br> * Recursion	<br>
 <br>**8	Basic Storage Types and Access	02/06/2023**
 <br> * Arrays, HashSet, HashMap <br>	
@@ -33,6 +70,7 @@
 <br> * Drivetrain	<br>
 <br>**12	VEX-IQ	03/12/2023**
 <br> * Drivetrain and Motors <br>	
+
 <br>**13	VEX-IQ	03/19/2023**
 <br> * Manual Vehicle Controls	<br>
 <br>**14	VEX-IQ	03/26/2023**
