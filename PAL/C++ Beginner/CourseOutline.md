@@ -49,3 +49,6 @@
 <br> * Challenging Robots and Code to Specifications.	<br>
 <br>**20	USACO Competition Prep. / USACO Bronze	05/14/2023**
 <br> * Challenging Robots and Code to Specifications.	<br>
+
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/1078bac0-cbb0-41fc-8427-6a6a9f6ec227)
