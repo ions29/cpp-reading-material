@@ -42,9 +42,21 @@
 
 <br>
 
+# USACO: Syosset Enrichment and Competition Programs
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/dcd7e40d-08a9-4edc-9b19-58f5209f91c1)
+
+
+## C++ Programming: Beginner Course Outline
+
+
+
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/15855014-4936-422f-a2f6-e275dc2251f6)
 
 
 ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6c8a9cd9-44a4-4079-a00d-59c4403e989b)
+
+
+
 
