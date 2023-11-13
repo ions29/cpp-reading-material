@@ -48,6 +48,9 @@
 
 ## C++ Programming: Beginner Course, Syosset Enrichment Program
 
-* C++ Beginner / Program at the Syosset Enrichment School
+* C++ Intructor / Beginner Program at the Syosset Enrichment School
 * [Course Repository](https://github.com/ions29/cpp-reading-material/blob/main/PAL/C%2B%2B%20Beginner/CourseOutline.md)
+
+* C++ Intructor / Intermediate Program at the Syosset Enrichment School
+* Course Repository
 
