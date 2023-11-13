@@ -51,14 +51,3 @@
 * C++ Beginner / Program at the Syosset Enrichment School
 * [Course Repository](https://github.com/ions29/cpp-reading-material/blob/main/PAL/C%2B%2B%20Beginner/CourseOutline.md)
 
-
-![image](https://github.com/ions29/cpp-reading-material/assets/127531384/b0f8a97f-701c-46c1-9fff-bd5d5967ee36)
-
-![image](https://github.com/ions29/cpp-reading-material/assets/127531384/15855014-4936-422f-a2f6-e275dc2251f6)
-
-
-![image](https://github.com/ions29/cpp-reading-material/assets/127531384/6c8a9cd9-44a4-4079-a00d-59c4403e989b)
-
-
-
-
