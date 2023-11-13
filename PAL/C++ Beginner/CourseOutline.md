@@ -8,45 +8,45 @@
 
 | Class      | Topic | Date |
 | :---        |    :--------| :--------|
-| 1 | Introduction to the Class and IDE 	| 12/12/2023 |
+| **1** | Introduction to the Class and IDE 	| 12/12/2023 |
 | | CloudBased Interactive Development Environment |
-| 2 | Basic C++ Practical Uses | 12/12/2023 |
+| **2** | Basic C++ Practical Uses | 12/12/2023 |
 | | Architecture, Data Types, Variables, Operators |
-| 3 | Basic C++ Functions | 01/02/2023|
+| **3** | Basic C++ Functions | 01/02/2023|
 | | Parameters, Namespaces, Classes |
-| 4 |  Data Types | 01/09/2023 |
+| **4** |  Data Types | 01/09/2023 |
 | | char, int, float, double, bool |
-| 5 | Basic Data Structures | 01/16/2023 |
+| **5** | Basic Data Structures | 01/16/2023 |
 | | Introduction: Arrays, HashSet, HashMap |
-| 6 | Review Data Structures | 01/23/2023 |
+| **6** | Review Data Structures | 01/23/2023 |
 | |  Sorting Arrays {char[], int[], float[], double[], bool[]} |
-| 7 |	Struct, Classes, Functions | 01/30/2023 |
+| **7** |	Struct, Classes, Functions | 01/30/2023 |
 | | Recursion |
-| 8 | Basic Storage Types and Access | 02/06/2023 |
+| **8** | Basic Storage Types and Access | 02/06/2023 |
 | | Arrays, HashSet, HashMap |
-| 9 | Introduction to VEX-IQ | 02/13/2023 |
+| **9** | Introduction to VEX-IQ | 02/13/2023 |
 | | Assembly and Parts |
-| 10 | VEX-IQ | 02/27/2023 |
+| **10** | VEX-IQ | 02/27/2023 |
 | | Robot Brain |
-| 11 | VEX-IQ | 03/05/2023 |
+| **11** | VEX-IQ | 03/05/2023 |
 | | Drivetrain |
-| 12 | VEX-IQ  | 03/12/2023 |
+| **12** | VEX-IQ  | 03/12/2023 |
 | | Drivetrain and Motors |
-| 13 | VEX-IQ | 03/19/2023 |
+| **13** | VEX-IQ | 03/19/2023 |
 | |  Manual Vehicle Controls |
-| 14 | VEX-IQ | 03/26/2023 |
+| **14** | VEX-IQ | 03/26/2023 |
 | |  Autonomous Vehicle Programming |
-| 15 | VEX-IQ | 04/02/2023 |
+| **15** | VEX-IQ | 04/02/2023 |
 | |  Autonomous Vehicle Programming / Obstacles |
-| 16 | VEX-IQ | 04/09/2023 |
+| **16** | VEX-IQ | 04/09/2023 |
 | |  Autonomous Vehicle Programming/ USACO |
-| 17 | USACO Competition Prep. / USACO Bronze | 04/16/2023 |
+| **17** | USACO Competition Prep. / USACO Bronze | 04/16/2023 |
 | |  Autonomous Vehicle Programming with Obstacles |
-| 18 | USACO Competition Prep. / USACO Bronze | 04/30/2023 |
+| **18** | USACO Competition Prep. / USACO Bronze | 04/30/2023 |
 | |   Challenging Robots and Code to Specifications |
-| 19 | USACO Competition Prep. / USACO Bronze | 05/07/2023 |
+| **19** | USACO Competition Prep. / USACO Bronze | 05/07/2023 |
 | |   Challenging Robots and Code to Specifications |
-| 20 | USACO Competition Prep. / USACO Bronze | 05/14/2023 |
+| **20** | USACO Competition Prep. / USACO Bronze | 05/14/2023 |
 | |  Challenging Robots and Code to Specifications |
 
 <br> **1	Introduction to the Class and IDE	 &nbsp; &nbsp; &nbsp; &nbsp; 12/12/2023**
