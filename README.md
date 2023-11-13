@@ -43,7 +43,7 @@
 <br>
 <br>
 
-![image](https://github.com/ions29/cpp-reading-material/assets/127531384/bc259dbd-5a0c-4781-bb0d-3b5e3f4e05f4)
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/b0f8a97f-701c-46c1-9fff-bd5d5967ee36)
 
 
 # USACO: Syosset Enrichment and Competition Programs
