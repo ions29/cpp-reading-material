@@ -35,12 +35,19 @@
 | 13 | VEX-IQ | 03/19/2023 |
 | |  Manual Vehicle Controls |
 | 14 | VEX-IQ | 03/26/2023 |
-| 15 | Introduction to the Class and IDE | 12/12/2023 |
-| 16 | Introduction to the Class and IDE | 12/12/2023 |
-| 17 | Introduction to the Class and IDE | 12/12/2023 |
-| 18 | Introduction to the Class and IDE | 12/12/2023 |
-| 19 | Introduction to the Class and IDE | 12/12/2023 |
-| 20 | Introduction to the Class and IDE | 12/12/2023 |
+| |  Autonomous Vehicle Programming |
+| 15 | VEX-IQ | 04/02/2023 |
+| |  Autonomous Vehicle Programming / Obstacles |
+| 16 | VEX-IQ | 04/09/2023 |
+| |  Autonomous Vehicle Programming/ USACO |
+| 17 | USACO Competition Prep. / USACO Bronze | 04/16/2023 |
+| |  Autonomous Vehicle Programming with Obstacles |
+| 18 | USACO Competition Prep. / USACO Bronze | 04/30/2023 |
+| |   Challenging Robots and Code to Specifications |
+| 19 | USACO Competition Prep. / USACO Bronze | 05/07/2023 |
+| |   Challenging Robots and Code to Specifications |
+| 20 | USACO Competition Prep. / USACO Bronze | 05/14/2023 |
+| |  Challenging Robots and Code to Specifications |
 
 <br> **1	Introduction to the Class and IDE	 &nbsp; &nbsp; &nbsp; &nbsp; 12/12/2023**
 <br> * Local and CloudBased Interactive Development Environment	<br>
@@ -70,7 +77,6 @@
 <br> * Drivetrain	<br>
 <br>**12	VEX-IQ	03/12/2023**
 <br> * Drivetrain and Motors <br>	
-
 <br>**13	VEX-IQ	03/19/2023**
 <br> * Manual Vehicle Controls	<br>
 <br>**14	VEX-IQ	03/26/2023**
