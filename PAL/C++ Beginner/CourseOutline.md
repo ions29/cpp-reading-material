@@ -5,9 +5,9 @@
 
 ## C++ 	L-101: Lecture Schedule
 
-<br> **1	Introduction to the Class and IDE	12/12/2023**
+<br> **1	Introduction to the Class and IDE	 &nbsp; &nbsp; &nbsp; &nbsp; 12/12/2023**
 <br> * Local and CloudBased Interactive Development Environment	<br>
-<br>**2	Basic C++ Uses	12/19/2023**
+<br>**2	Basic C++ Uses &nbsp; &nbsp; &nbsp; &nbsp; 12/19/2023**
 <br> * Program Architecture	
 <br> * Variables and Data Types	
 <br> * Constant Variables, Operators	
