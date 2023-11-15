@@ -1,5 +1,7 @@
 # Role of a Team
 
+[Scores on the Safety Quiz](https://github.com/ions29/cpp-reading-material/blob/main/PAL/RoboLink%20Drone%20Engineering%20-%20Petrides/20231114-%20Team%20Safety%20Scores.md)
+
 ### “There’s Safety in Numbers.”
 
  ![image](https://github.com/ions29/cpp-reading-material/assets/127531384/bb2cd97b-b0b2-4abb-8b2a-a15603a6cc8c)
