@@ -1,9 +1,6 @@
-** DRAFT 
-
+## C++ 	L-101: Lecture Schedule (6:00-7:00pm)
+    
 [101.docx](https://github.com/ions29/cpp-reading-material/files/13390813/101.docx)
-
-
-## C++ 	L-101: Lecture Schedule
 
 
 | Class      | Topic | Date |
