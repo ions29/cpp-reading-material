@@ -21,30 +21,30 @@
 | | Recursion |
 | **8** | Basic Storage Types and Access | 02/21/2024 |
 | | Arrays, HashSet, HashMap |
-| **9** | Introduction to VEX-IQ | 02/28/2024 |
-| | Assembly and Parts |
-| **10** | VEX-IQ | 03/06/2024 |
-| | Robot Brain |
-| **11** | VEX-IQ | 03/13/2024 |
-| | Drivetrain |
-| **12** | VEX-IQ  | 03/20/2024 |
-| | Drivetrain and Motors |
-| **13** | VEX-IQ | 03/27/2024 |
-| |  Manual Vehicle Controls |
-| **14** | VEX-IQ | 04/03/2024 |
-| |  Autonomous Vehicle Programming |
-| **15** | VEX-IQ | 04/10/2024 |
-| |  Autonomous Vehicle Programming / Obstacles |
-| **16** | VEX-IQ | 04/17/2024 |
-| |  Autonomous Vehicle Programming/ USACO |
+| **9** | USACO Bronze Introduction | 02/28/2024 |
+| |  Challenges with USACO Bronze Requirements |
+| **10** | USACO Bronze Introduction | 03/06/2024 |
+| |  Challenges with USACO Bronze Requirements |
+| **11** | USACO Bronze Introduction | 03/13/2024 |
+| |  Challenges with USACO Bronze Requirements |
+| **12** | USACO Bronze Introduction  | 03/20/2024 |
+| | Challenges with USACO Bronze Requirements |
+| **13** |  USACO Bronze Programming | 03/27/2024 |
+| | USACO Bronze Experiments |
+| **14** | USACO Bronze Programming | 04/03/2024 |
+| | USACO Bronze Experiments  |
+| **15** | USACO Bronze Programming | 04/10/2024 |
+| | USACO Bronze Experiments  |
+| **16** | USACO Bronze Programming | 04/17/2024 |
+| | USACO Bronze Experiments  |
 | **17** | USACO Competition Prep. / USACO Bronze | 04/24/2024 |
-| |  Autonomous Vehicle Programming with Obstacles |
+| | USACO Bronze Experiments  |
 | **18** | USACO Competition Prep. / USACO Bronze | 05/01/2024 |
-| |   Challenging Robots and Code to Specifications |
+| | Winning the USACO Bronze Competition |
 | **19** | USACO Competition Prep. / USACO Bronze | 05/08/2024 |
-| |   Challenging Robots and Code to Specifications |
+| |   Winning the USACO Bronze Competition |
 | **20** | USACO Competition Prep. / USACO Bronze | 05/15/2024 |
-| |  Challenging Robots and Code to Specifications |
+| |  Winning the USACO Bronze Competition |
 
 <br> **1	Introduction to the Class and IDE**
 <br> * Local and CloudBased Interactive Development Environment	<br>
