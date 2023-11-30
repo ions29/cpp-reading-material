@@ -1,4 +1,27 @@
-## Using a TELLO Controller
+## Using a coDrone Controller QUIZ
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/2fd84588-a151-4b65-8c28-e25f6e0dd4dc)
+
+Take-Off	&nbsp;	&nbsp; 	&nbsp; 	&nbsp;  Throttle	&nbsp;	&nbsp; 	&nbsp; 	&nbsp; Yaw				
+
+L1	______________	___________________		<br/>
+UP	______________	___________________		<br/>
+DOWN	______________	___________________		<br/>
+LEFT	______________	___________________		<br/>
+RIGHT	______________	___________________		<br/><br/>
+
+![image](https://github.com/ions29/cpp-reading-material/assets/127531384/3527469d-3e07-4aa7-8353-414f1d600941)
+
+Land	&nbsp;	&nbsp; 	&nbsp; 	&nbsp;  Pitch &nbsp;	&nbsp; 	&nbsp; 	&nbsp; Roll
+
+
+R1	______________	___________________		<br/>
+UP	______________	___________________		<br/>
+DOWN	______________	___________________		<br/>
+LEFT	______________	___________________		<br/>
+RIGHT	______________	___________________		<br/><br/>
+
+
 
 ## Unmanned Aerial System (UAS)
 
