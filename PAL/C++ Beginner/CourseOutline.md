@@ -1,8 +1,5 @@
 ## C++ 	L-101: Lecture Schedule (6:00-7:00pm)
     
-[101.docx](https://github.com/ions29/cpp-reading-material/files/13390813/101.docx)
-
-
 | Class      | Topic | Date |
 | :---        |    :--------| :--------|
 | **1** | Introduction to the Class and IDE 	| 01/03/2024 |
