@@ -1,5 +1,3 @@
-** DRAFT 
-
 ## C++ 	L-201: Lecture Schedule (7:00-8:00pm)
 
 | Class      | Topic | Date |
