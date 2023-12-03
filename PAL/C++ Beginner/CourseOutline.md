@@ -30,15 +30,15 @@
 | **12** | USACO Bronze Introduction  | 03/20/2024 |
 | | Challenges with USACO Bronze Requirements |
 | **13** |  USACO Bronze Programming | 03/27/2024 |
-| | USACO Bronze Experiments |
+| | USACO Bronze Test Cases in C++ |
 | **14** | USACO Bronze Programming | 04/03/2024 |
-| | USACO Bronze Experiments  |
+| | USACO Bronze Test Cases in C++ |
 | **15** | USACO Bronze Programming | 04/10/2024 |
-| | USACO Bronze Experiments  |
+| | USACO Bronze Test Cases in C++ |
 | **16** | USACO Bronze Programming | 04/17/2024 |
-| | USACO Bronze Experiments  |
+| | USACO Bronze Test Cases in C++  |
 | **17** | USACO Competition Prep. / USACO Bronze | 04/24/2024 |
-| | USACO Bronze Experiments  |
+| | USACO Bronze Test Cases in C++  |
 | **18** | USACO Competition Prep. / USACO Bronze | 05/01/2024 |
 | | Winning the USACO Bronze Competition |
 | **19** | USACO Competition Prep. / USACO Bronze | 05/08/2024 |
