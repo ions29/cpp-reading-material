@@ -28,25 +28,25 @@
 | | Sequential and Binary Search, Greedy Algorithms, Bitwise Operations |
 | **10** | Advanced Data Access Modifiers | 03/06/2024 |
 | | Flood Fill, Divide and Conquer, Logic Trees, Bitwise Operations Cont. |
-| **11** | VEX-IQ Robotics | 03/13/2024 |
-| | Advanced Robotics with C++ |
-| **12** | VEX-IQ:  Drivetrain | 03/20/2024 |
-| | Drivetrain and Motors |
-| **13** | VEX-IQ: Controls and Testing | 03/27/2024 |
-| |  Manual Vehicle Controls |
-| **14** | VEX-IQ: Autonomous Vehicle Controls | 04/03/2024 |
-| |  Autonomous Vehicle Programming |
-| **15** | VEX-IQ | 04/10/2024 |
-| |  Autonomous Vehicle Programming / Advanced Obstacles |
-| **16** | VEX-IQ | 04/17/2024 |
-| |  Autonomous Vehicle Programming/ USACO |
+| **11** | USACO Silver Introduction to Challenges | 03/13/2024 |
+| |  Challenges with Silver Requirements |
+| **12** | USACO Silver Introduction  | 03/20/2024 |
+| | Challenges with Silver Requirements |
+| **13** |  USACO Silver Programming | 03/27/2024 |
+| | USACO Silver Test Cases in C++ |
+| **14** | USACO Silver Programming | 04/03/2024 |
+| | USACO Silver Test Cases in C++ |
+| **15** | USACO Silver Programming | 04/10/2024 |
+| | USACO Silver Test Cases in C++ |
+| **16** | USACO Silver Programming | 04/17/2024 |
+| | USACO Silver Test Cases in C++  |
 | **17** | USACO Competition Prep. / USACO Silver | 04/24/2024 |
-| |  Autonomous Vehicle Programming with Obstacles |
+| | USACO Silver Test Cases in C++  |
 | **18** | USACO Competition Prep. / USACO Silver | 05/01/2024 |
-| |   Challenging Robots and Code to USACO Silver Specifications |
+| | Winning the USACO Silver Competition |
 | **19** | USACO Competition Prep. / USACO Silver | 05/08/2024 |
-| |   Challenging Robots and Code to USACO Silver Specifications |
+| |   Winning the USACO Silver Competition |
 | **20** | USACO Competition Prep. / USACO Silver | 05/15/2024 |
-| |  Challenging Robots and Code to USACO Silver Specifications |
+| |  Winning the USACO Silver Competition |
 
 
